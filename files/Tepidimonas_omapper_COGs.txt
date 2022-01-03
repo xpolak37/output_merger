@@ -1,0 +1,2541 @@
+FGBPHIDH_00001	COG0593	[L] ATPase involved in DNA replication initiation
+FGBPHIDH_00002	COG0592	[L] DNA polymerase sliding clamp subunit (PCNA
+FGBPHIDH_00003	COG0187	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+FGBPHIDH_00004	ROG3457	
+FGBPHIDH_00005	COG0320	[H] Lipoate synthase    
+FGBPHIDH_00006	COG0321	[H] Lipoate-protein ligase B   
+FGBPHIDH_00007	COG2921	[S] Uncharacterized conserved protein   
+FGBPHIDH_00008	ROG2192	
+FGBPHIDH_00009	COG0356	[C] F0F1-type ATP synthase, subunit a 
+FGBPHIDH_00010	COG0636	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+FGBPHIDH_00011	COG0711	[C] F0F1-type ATP synthase, subunit b 
+FGBPHIDH_00012	COG0712	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+FGBPHIDH_00013	COG0056	[C] F0F1-type ATP synthase, alpha subunit 
+FGBPHIDH_00014	COG0224	[C] F0F1-type ATP synthase, gamma subunit 
+FGBPHIDH_00015	COG0055	[C] F0F1-type ATP synthase, beta subunit 
+FGBPHIDH_00016	COG0355	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+FGBPHIDH_00017	COG0429	[R] Predicted hydrolase of the alpha/beta-hydrolase fold
+FGBPHIDH_00018	ROG0860	
+FGBPHIDH_00019	COG0757	[E] 3-dehydroquinate dehydratase II   
+FGBPHIDH_00020	COG3245	[C] Cytochrome c5    
+FGBPHIDH_00023	COG1409	[R] Predicted phosphohydrolases    
+FGBPHIDH_00024	ROG0421	
+FGBPHIDH_00025	COG1353	[R] Predicted hydrolase of the HD superfamily
+FGBPHIDH_00026	COG1421	[L] Uncharacterized protein predicted to be involved
+FGBPHIDH_00027	COG1337	[L] Uncharacterized protein predicted to be involved
+FGBPHIDH_00028	ROG6626	
+FGBPHIDH_00029	COG1332	[L] Uncharacterized protein predicted to be involved
+FGBPHIDH_00030	ROG2068	
+FGBPHIDH_00031	COG1343	[L] Uncharacterized protein predicted to be involved
+FGBPHIDH_00032	COG1518	[L] Uncharacterized protein predicted to be involved
+FGBPHIDH_00033	COG1343	[L] Uncharacterized protein predicted to be involved
+FGBPHIDH_00035	ROG3169	
+FGBPHIDH_00037	COG1816	[F] Adenosine deaminase    
+FGBPHIDH_00038	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00039	ROG0388	
+FGBPHIDH_00040	COG3293	[L] Transposase and inactivated derivatives  
+FGBPHIDH_00041	COG2801	[L] Transposase and inactivated derivatives  
+FGBPHIDH_00042	ROG5276	
+FGBPHIDH_00043	COG4978	[KT] Transcriptional regulator, effector-binding domain/component  
+FGBPHIDH_00044	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+FGBPHIDH_00045	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+FGBPHIDH_00046	ROG5492	
+FGBPHIDH_00047	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+FGBPHIDH_00049	ROG1931	
+FGBPHIDH_00050	ROG4855	
+FGBPHIDH_00051	COG0640	[K] Predicted transcriptional regulators   
+FGBPHIDH_00052	COG3324	[R] Predicted enzyme related to lactoylglutathione lyase
+FGBPHIDH_00053	COG0394	[T] Protein-tyrosine-phosphatase     
+FGBPHIDH_00054	COG0798	[P] Arsenite efflux pump ACR3 and related
+FGBPHIDH_00055	COG3658	[C] Cytochrome b    
+FGBPHIDH_00056	COG5591	[S] Uncharacterized conserved protein   
+FGBPHIDH_00057	COG3212	[S] Predicted membrane protein   
+FGBPHIDH_00058	COG0745	[TK] Response regulators consisting of a CheY-like
+FGBPHIDH_00059	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+FGBPHIDH_00060	COG0625	[O] Glutathione S-transferase    
+FGBPHIDH_00061	COG0015	[F] Adenylosuccinate lyase    
+FGBPHIDH_00062	COG3313	[R] Predicted Fe-S protein   
+FGBPHIDH_00063	COG4783	[R] Putative Zn-dependent protease, contains TPR repeats
+FGBPHIDH_00064	COG0315	[H] Molybdenum cofactor biosynthesis enzyme  
+FGBPHIDH_00065	COG1250	[I] 3-hydroxyacyl-CoA dehydrogenase    
+FGBPHIDH_00066	ROG0790	
+FGBPHIDH_00067	COG1042	[C] Acyl-CoA synthetase (NDP forming)  
+FGBPHIDH_00068	COG2928	[S] Uncharacterized conserved protein   
+FGBPHIDH_00069	COG0313	[R] Predicted methyltransferases    
+FGBPHIDH_00070	COG0792	[L] Predicted endonuclease distantly related to archaeal
+FGBPHIDH_00071	COG0279	[G] Phosphoheptose isomerase    
+FGBPHIDH_00072	COG2823	[R] Predicted periplasmic or secreted lipoprotein 
+FGBPHIDH_00073	COG2084	[I] 3-hydroxyisobutyrate dehydrogenase and related beta-hydroxyacid dehydrogenases
+FGBPHIDH_00074	COG5008	[NU] Tfp pilus assembly protein, ATPase PilU
+FGBPHIDH_00075	COG2805	[NU] Tfp pilus assembly protein, pilus retraction
+FGBPHIDH_00076	COG0325	[R] Predicted enzyme with a TIM-barrel fold
+FGBPHIDH_00077	COG4230	[C] Delta 1-pyrroline-5-carboxylate dehydrogenase   
+FGBPHIDH_00078	COG1522	[K] Transcriptional regulators    
+FGBPHIDH_00079	COG2423	[E] Predicted ornithine cyclodeaminase, mu-crystallin homolog 
+FGBPHIDH_00080	COG1522	[K] Transcriptional regulators    
+FGBPHIDH_00081	COG0147	[EH] Anthranilate/para-aminobenzoate synthases component I  
+FGBPHIDH_00082	COG0251	[J] Putative translation initiation inhibitor, yjgF family
+FGBPHIDH_00083	COG2423	[E] Predicted ornithine cyclodeaminase, mu-crystallin homolog 
+FGBPHIDH_00084	COG4251	[T] Bacteriophytochrome (light-regulated signal transduction histidine kinase)
+FGBPHIDH_00085	COG0277	[C] FAD/FMN-containing dehydrogenases    
+FGBPHIDH_00086	COG0071	[O] Molecular chaperone (small heat shock protein)
+FGBPHIDH_00087	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_00088	COG0788	[F] Formyltetrahydrofolate hydrolase    
+FGBPHIDH_00089	COG1893	[H] Ketopantoate reductase    
+FGBPHIDH_00090	COG1207	[M] N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch
+FGBPHIDH_00091	COG1522	[K] Transcriptional regulators    
+FGBPHIDH_00092	COG0449	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+FGBPHIDH_00093	COG1230	[P] Co/Zn/Cd efflux system component  
+FGBPHIDH_00094	COG0789	[K] Predicted transcriptional regulators   
+FGBPHIDH_00095	COG1339	[KH] Transcriptional regulator of a riboflavin/FAD biosynthetic
+FGBPHIDH_00096	COG0803	[P] ABC-type metal ion transport system, periplasmic
+FGBPHIDH_00097	COG0709	[E] Selenophosphate synthase    
+FGBPHIDH_00098	COG2603	[R] Predicted ATPase    
+FGBPHIDH_00099	ROG3214	
+FGBPHIDH_00100	COG0730	[R] Predicted permeases    
+FGBPHIDH_00101	COG0007	[H] Uroporphyrinogen-III methylase    
+FGBPHIDH_00102	COG2895	[P] GTPases - Sulfate adenylate transferase subunit
+FGBPHIDH_00103	COG0175	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+FGBPHIDH_00104	COG0175	[EH] 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+FGBPHIDH_00105	COG3749	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00106	COG0155	[P] Sulfite reductase, beta subunit (hemoprotein) 
+FGBPHIDH_00107	COG0584	[C] Glycerophosphoryl diester phosphodiesterase   
+FGBPHIDH_00108	COG3839	[G] ABC-type sugar transport systems, ATPase components
+FGBPHIDH_00109	COG0395	[G] ABC-type sugar transport system, permease component
+FGBPHIDH_00110	COG1175	[G] ABC-type sugar transport systems, permease components
+FGBPHIDH_00111	COG1653	[G] ABC-type sugar transport system, periplasmic component
+FGBPHIDH_00112	COG0578	[C] Glycerol-3-phosphate dehydrogenase    
+FGBPHIDH_00113	COG1349	[KG] Transcriptional regulators of sugar metabolism 
+FGBPHIDH_00114	COG2138	[S] Uncharacterized conserved protein   
+FGBPHIDH_00115	COG0161	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+FGBPHIDH_00116	COG0500	[QR] SAM-dependent methyltransferases    
+FGBPHIDH_00117	COG2021	[E] Homoserine acetyltransferase    
+FGBPHIDH_00118	COG0724	[R] RNA-binding proteins (RRM domain)  
+FGBPHIDH_00119	COG3117	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00120	COG1778	[R] Low specificity phosphatase (HAD superfamily) 
+FGBPHIDH_00121	COG0794	[M] Predicted sugar phosphate isomerase involved in
+FGBPHIDH_00122	COG0475	[P] Kef-type K+ transport systems, membrane components
+FGBPHIDH_00123	COG0503	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+FGBPHIDH_00124	COG0835	[NT] Chemotaxis signal transduction protein  
+FGBPHIDH_00125	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_00126	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_00127	COG2200	[T] FOG: EAL domain   
+FGBPHIDH_00128	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+FGBPHIDH_00130	ROG0062	
+FGBPHIDH_00131	COG0189	[HJ] Glutathione synthase/Ribosomal protein S6 modification enzyme
+FGBPHIDH_00132	ROG0518	
+FGBPHIDH_00133	COG2076	[P] Membrane transporters of cations and cationic
+FGBPHIDH_00134	COG3437	[KT] Response regulator containing a CheY-like receiver
+FGBPHIDH_00135	COG0642	[T] Signal transduction histidine kinase  
+FGBPHIDH_00136	ROG2472	
+FGBPHIDH_00138	COG1716	[T] FOG: FHA domain   
+FGBPHIDH_00139	COG1716	[T] FOG: FHA domain   
+FGBPHIDH_00140	COG0631	[T] Serine/threonine protein phosphatase   
+FGBPHIDH_00141	COG0074	[C] Succinyl-CoA synthetase, alpha subunit  
+FGBPHIDH_00142	COG0045	[C] Succinyl-CoA synthetase, beta subunit  
+FGBPHIDH_00143	COG0002	[E] Acetylglutamate semialdehyde dehydrogenase   
+FGBPHIDH_00144	ROG6594	
+FGBPHIDH_00145	COG4113	[R] Predicted nucleic acid-binding protein, contains PIN
+FGBPHIDH_00146	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+FGBPHIDH_00147	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+FGBPHIDH_00148	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+FGBPHIDH_00149	COG4535	[P] Putative Mg2+ and Co2+ transporter CorC
+FGBPHIDH_00150	COG0815	[M] Apolipoprotein N-acyltransferase    
+FGBPHIDH_00151	COG0752	[J] Glycyl-tRNA synthetase, alpha subunit  
+FGBPHIDH_00152	COG0751	[J] Glycyl-tRNA synthetase, beta subunit  
+FGBPHIDH_00153	COG0241	[E] Histidinol phosphatase and related phosphatases 
+FGBPHIDH_00154	COG0204	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+FGBPHIDH_00155	COG1451	[R] Predicted metal-dependent hydrolase   
+FGBPHIDH_00156	COG1575	[H] 1,4-dihydroxy-2-naphthoate octaprenyltransferase    
+FGBPHIDH_00157	COG0789	[K] Predicted transcriptional regulators   
+FGBPHIDH_00159	COG1960	[I] Acyl-CoA dehydrogenases    
+FGBPHIDH_00160	COG0288	[P] Carbonic anhydrase    
+FGBPHIDH_00161	COG4579	[T] Isocitrate dehydrogenase kinase/phosphatase   
+FGBPHIDH_00162	COG0183	[I] Acetyl-CoA acetyltransferase    
+FGBPHIDH_00163	COG1960	[I] Acyl-CoA dehydrogenases    
+FGBPHIDH_00164	COG2161	[D] Antitoxin of toxin-antitoxin stability system 
+FGBPHIDH_00165	COG2026	[JD] Cytotoxic translational repressor of toxin-antitoxin stability
+FGBPHIDH_00166	COG0569	[P] K+ transport systems, NAD-binding component 
+FGBPHIDH_00167	COG0168	[P] Trk-type K+ transport systems, membrane components
+FGBPHIDH_00168	COG0168	[P] Trk-type K+ transport systems, membrane components
+FGBPHIDH_00169	COG2059	[P] Chromate transport protein ChrA  
+FGBPHIDH_00170	COG0715	[P] ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components
+FGBPHIDH_00171	COG0600	[P] ABC-type nitrate/sulfonate/bicarbonate transport system, permease component
+FGBPHIDH_00172	COG1116	[P] ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component
+FGBPHIDH_00173	COG3665	[S] Uncharacterized conserved protein   
+FGBPHIDH_00174	COG3665	[S] Uncharacterized conserved protein   
+FGBPHIDH_00175	COG0439	[I] Biotin carboxylase    
+FGBPHIDH_00176	COG0154	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+FGBPHIDH_00177	COG4977	[K] Transcriptional regulator containing an amidase domain
+FGBPHIDH_00178	COG4799	[I] Acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha
+FGBPHIDH_00179	COG1024	[I] Enoyl-CoA hydratase/carnithine racemase   
+FGBPHIDH_00180	COG4770	[I] Acetyl/propionyl-CoA carboxylase, alpha subunit  
+FGBPHIDH_00181	COG1052	[CHR] Lactate dehydrogenase and related dehydrogenases 
+FGBPHIDH_00182	COG0821	[I] Enzyme involved in the deoxyxylulose pathway
+FGBPHIDH_00183	COG2606	[S] Uncharacterized conserved protein   
+FGBPHIDH_00184	COG1894	[C] NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+FGBPHIDH_00185	COG0243	[C] Anaerobic dehydrogenases, typically selenocysteine-containing  
+FGBPHIDH_00186	ROG0451	
+FGBPHIDH_00188	ROG0006	
+FGBPHIDH_00189	COG3177	[S] Uncharacterized conserved protein   
+FGBPHIDH_00190	COG0589	[T] Universal stress protein UspA and related
+FGBPHIDH_00191	ROG2786	
+FGBPHIDH_00192	COG0178	[L] Excinuclease ATPase subunit   
+FGBPHIDH_00193	ROG3415	
+FGBPHIDH_00194	ROG7578	
+FGBPHIDH_00195	COG0477	[GEPR] Permeases of the major facilitator superfamily
+FGBPHIDH_00196	COG0261	[J] Ribosomal protein L21   
+FGBPHIDH_00197	COG0211	[J] Ribosomal protein L27   
+FGBPHIDH_00198	COG0536	[R] Predicted GTPase    
+FGBPHIDH_00199	COG0263	[E] Glutamate 5-kinase    
+FGBPHIDH_00200	ROG0846	
+FGBPHIDH_00201	COG0494	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+FGBPHIDH_00202	COG0442	[J] Prolyl-tRNA synthetase    
+FGBPHIDH_00203	COG0741	[M] Soluble lytic murein transglycosylase and related
+FGBPHIDH_00205	COG0466	[O] ATP-dependent Lon protease, bacterial type 
+FGBPHIDH_00206	COG0278	[O] Glutaredoxin-related protein    
+FGBPHIDH_00207	COG2890	[J] Methylase of polypeptide chain release factors
+FGBPHIDH_00208	COG0216	[J] Protein chain release factor A 
+FGBPHIDH_00209	COG0373	[H] Glutamyl-tRNA reductase    
+FGBPHIDH_00210	COG0277	[C] FAD/FMN-containing dehydrogenases    
+FGBPHIDH_00211	COG0537	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+FGBPHIDH_00212	COG3536	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00213	COG2226	[H] Methylase involved in ubiquinone/menaquinone biosynthesis 
+FGBPHIDH_00214	COG4395	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00215	ROG8418	
+FGBPHIDH_00216	COG0661	[R] Predicted unusual protein kinase  
+FGBPHIDH_00217	COG2331	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00218	COG2928	[S] Uncharacterized conserved protein   
+FGBPHIDH_00219	COG0173	[J] Aspartyl-tRNA synthetase    
+FGBPHIDH_00220	COG4575	[S] Uncharacterized conserved protein   
+FGBPHIDH_00221	COG5393	[S] Predicted membrane protein   
+FGBPHIDH_00223	COG1291	[N] Flagellar motor component   
+FGBPHIDH_00224	COG1360	[N] Flagellar motor protein   
+FGBPHIDH_00225	COG0784	[T] FOG: CheY-like receiver   
+FGBPHIDH_00226	COG3143	[NT] Chemotaxis protein    
+FGBPHIDH_00227	COG1377	[NU] Flagellar biosynthesis pathway, component FlhB 
+FGBPHIDH_00228	COG1298	[NU] Flagellar biosynthesis pathway, component FlhA 
+FGBPHIDH_00229	COG1419	[N] Flagellar GTP-binding protein   
+FGBPHIDH_00231	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+FGBPHIDH_00232	ROG5147	
+FGBPHIDH_00233	ROG5975	
+FGBPHIDH_00234	COG1261	[NO] Flagellar basal body P-ring biosynthesis protein
+FGBPHIDH_00235	COG1815	[N] Flagellar basal body protein  
+FGBPHIDH_00236	COG1558	[N] Flagellar basal body rod protein 
+FGBPHIDH_00237	COG1843	[N] Flagellar hook capping protein  
+FGBPHIDH_00238	COG1749	[N] Flagellar hook protein FlgE  
+FGBPHIDH_00239	COG4787	[N] Flagellar basal body rod protein 
+FGBPHIDH_00240	COG4786	[N] Flagellar basal body rod protein 
+FGBPHIDH_00241	COG2063	[N] Flagellar basal body L-ring protein 
+FGBPHIDH_00242	COG1706	[N] Flagellar basal-body P-ring protein  
+FGBPHIDH_00243	COG1705	[NU] Muramidase (flagellum-specific)    
+FGBPHIDH_00244	COG1256	[N] Flagellar hook-associated protein   
+FGBPHIDH_00245	COG1344	[N] Flagellin and related hook-associated proteins 
+FGBPHIDH_00246	COG3434	[T] Predicted signal transduction protein containing EAL
+FGBPHIDH_00248	COG1960	[I] Acyl-CoA dehydrogenases    
+FGBPHIDH_00249	COG1960	[I] Acyl-CoA dehydrogenases    
+FGBPHIDH_00250	ROG0718	
+FGBPHIDH_00251	COG0459	[O] Chaperonin GroEL (HSP60 family)  
+FGBPHIDH_00252	COG0234	[O] Co-chaperonin GroES (HSP10)   
+FGBPHIDH_00253	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+FGBPHIDH_00255	COG1024	[I] Enoyl-CoA hydratase/carnithine racemase   
+FGBPHIDH_00256	COG1024	[I] Enoyl-CoA hydratase/carnithine racemase   
+FGBPHIDH_00257	COG3975	[R] Predicted protease with the C-terminal PDZ
+FGBPHIDH_00258	COG1651	[O] Protein-disulfide isomerase    
+FGBPHIDH_00259	COG0654	[HC] 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+FGBPHIDH_00260	COG3217	[R] Uncharacterized Fe-S protein   
+FGBPHIDH_00261	COG0012	[J] Predicted GTPase, probable translation factor 
+FGBPHIDH_00262	COG3002	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00263	COG1009	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+FGBPHIDH_00264	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_00265	COG1410	[E] Methionine synthase I, cobalamin-binding domain 
+FGBPHIDH_00266	COG1309	[K] Transcriptional regulator    
+FGBPHIDH_00267	COG0845	[M] Membrane-fusion protein    
+FGBPHIDH_00268	COG0841	[V] Cation/multidrug efflux pump   
+FGBPHIDH_00269	COG1538	[MU] Outer membrane protein   
+FGBPHIDH_00270	COG2804	[NU] Type II secretory pathway, ATPase PulE/Tfp
+FGBPHIDH_00271	COG0606	[O] Predicted ATPase with chaperone activity 
+FGBPHIDH_00272	COG0347	[E] Nitrogen regulatory protein PII  
+FGBPHIDH_00273	COG0004	[P] Ammonia permease    
+FGBPHIDH_00274	COG0730	[R] Predicted permeases    
+FGBPHIDH_00275	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+FGBPHIDH_00276	COG2891	[M] Cell shape-determining protein   
+FGBPHIDH_00277	COG1792	[M] Cell shape-determining protein   
+FGBPHIDH_00278	COG1077	[D] Actin-like ATPase involved in cell morphogenesis
+FGBPHIDH_00279	COG0721	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit  
+FGBPHIDH_00280	COG0154	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+FGBPHIDH_00281	ROG0340	
+FGBPHIDH_00282	ROG0425	
+FGBPHIDH_00283	COG0064	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)
+FGBPHIDH_00284	ROG1048	
+FGBPHIDH_00285	COG0461	[F] Orotate phosphoribosyltransferase    
+FGBPHIDH_00286	COG0239	[D] Integral membrane protein possibly involved in
+FGBPHIDH_00287	COG0725	[P] ABC-type molybdate transport system, periplasmic component
+FGBPHIDH_00288	COG4149	[P] ABC-type molybdate transport system, permease component
+FGBPHIDH_00289	COG1118	[P] ABC-type sulfate/molybdate transport systems, ATPase component
+FGBPHIDH_00290	ROG0059	
+FGBPHIDH_00291	ROG1168	
+FGBPHIDH_00292	COG0172	[J] Seryl-tRNA synthetase    
+FGBPHIDH_00293	ROG4855	
+FGBPHIDH_00294	COG0346	[E] Lactoylglutathione lyase and related lyases 
+FGBPHIDH_00295	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+FGBPHIDH_00296	COG0488	[R] ATPase components of ABC transporters with
+FGBPHIDH_00297	COG3310	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00298	COG3706	[T] Response regulator containing a CheY-like receiver
+FGBPHIDH_00299	COG1238	[S] Predicted membrane protein   
+FGBPHIDH_00300	COG0042	[J] tRNA-dihydrouridine synthase    
+FGBPHIDH_00301	COG2901	[KL] Factor for inversion stimulation Fis, transcriptional
+FGBPHIDH_00302	COG0138	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+FGBPHIDH_00303	COG0313	[R] Predicted methyltransferases    
+FGBPHIDH_00304	COG0424	[D] Nucleotide-binding protein implicated in inhibition of
+FGBPHIDH_00305	COG2146	[PR] Ferredoxin subunits of nitrite reductase and
+FGBPHIDH_00306	COG0616	[OU] Periplasmic serine proteases (ClpP class) 
+FGBPHIDH_00307	COG0654	[HC] 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+FGBPHIDH_00308	COG3181	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00309	COG0213	[F] Thymidine phosphorylase    
+FGBPHIDH_00310	COG0462	[FE] Phosphoribosylpyrophosphate synthetase    
+FGBPHIDH_00311	COG3263	[P] NhaP-type Na+/H+ and K+/H+ antiporters with
+FGBPHIDH_00312	COG3706	[T] Response regulator containing a CheY-like receiver
+FGBPHIDH_00313	COG0225	[O] Peptide methionine sulfoxide reductase  
+FGBPHIDH_00314	COG0679	[R] Predicted permeases    
+FGBPHIDH_00315	COG2314	[S] Predicted membrane protein   
+FGBPHIDH_00316	COG1247	[M] Sortase and related acyltransferases  
+FGBPHIDH_00317	COG0228	[J] Ribosomal protein S16   
+FGBPHIDH_00318	COG0806	[J] RimM protein, required for 16S rRNA
+FGBPHIDH_00319	COG0336	[J] tRNA-(guanine-N1)-methyltransferase     
+FGBPHIDH_00320	COG0335	[J] Ribosomal protein L19   
+FGBPHIDH_00321	COG4949	[S] Uncharacterized membrane-anchored protein conserved in bacteria
+FGBPHIDH_00322	COG2863	[C] Cytochrome c553    
+FGBPHIDH_00323	COG1252	[C] NADH dehydrogenase, FAD-containing subunit  
+FGBPHIDH_00324	COG2863	[C] Cytochrome c553    
+FGBPHIDH_00325	COG0552	[U] Signal recognition particle GTPase  
+FGBPHIDH_00326	COG0612	[R] Predicted Zn-dependent peptidases   
+FGBPHIDH_00327	COG0612	[R] Predicted Zn-dependent peptidases   
+FGBPHIDH_00328	COG0742	[L] N6-adenine-specific methylase    
+FGBPHIDH_00329	COG0669	[H] Phosphopantetheine adenylyltransferase    
+FGBPHIDH_00330	COG1145	[C] Ferredoxin     
+FGBPHIDH_00331	COG0193	[J] Peptidyl-tRNA hydrolase    
+FGBPHIDH_00332	COG1825	[J] Ribosomal protein L25 (general stress protein
+FGBPHIDH_00333	COG0462	[FE] Phosphoribosylpyrophosphate synthetase    
+FGBPHIDH_00335	COG1947	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+FGBPHIDH_00336	COG3017	[M] Outer membrane lipoprotein involved in outer
+FGBPHIDH_00337	COG0457	[R] FOG: TPR repeat   
+FGBPHIDH_00338	COG0266	[L] Formamidopyrimidine-DNA glycosylase    
+FGBPHIDH_00339	COG0699	[R] Predicted GTPases (dynamin-related)   
+FGBPHIDH_00340	COG1194	[L] A/G-specific DNA glycosylase   
+FGBPHIDH_00341	COG1660	[R] Predicted P-loop-containing kinase   
+FGBPHIDH_00342	COG0497	[L] ATPase involved in DNA repair 
+FGBPHIDH_00343	COG0061	[G] Predicted sugar kinase   
+FGBPHIDH_00344	COG1420	[K] Transcriptional regulator of heat shock gene
+FGBPHIDH_00345	COG1322	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00348	COG1121	[P] ABC-type Mn/Zn transport systems, ATPase component
+FGBPHIDH_00349	COG1108	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+FGBPHIDH_00350	COG0402	[FR] Cytosine deaminase and related metal-dependent hydrolases
+FGBPHIDH_00351	COG1538	[MU] Outer membrane protein   
+FGBPHIDH_00352	COG1566	[V] Multidrug resistance efflux pump  
+FGBPHIDH_00353	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+FGBPHIDH_00354	COG0577	[V] ABC-type antimicrobial peptide transport system, permease
+FGBPHIDH_00355	COG0675	[L] Transposase and inactivated derivatives  
+FGBPHIDH_00356	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00357	COG0675	[L] Transposase and inactivated derivatives  
+FGBPHIDH_00358	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00359	ROG2610	
+FGBPHIDH_00360	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00361	ROG2401	
+FGBPHIDH_00362	ROG2610	
+FGBPHIDH_00363	ROG2401	
+FGBPHIDH_00365	COG1199	[KL] Rad3-related DNA helicases   
+FGBPHIDH_00366	COG3622	[G] Hydroxypyruvate isomerase    
+FGBPHIDH_00367	COG2379	[G] Putative glycerate kinase   
+FGBPHIDH_00368	COG1533	[L] DNA repair photolyase   
+FGBPHIDH_00369	COG3845	[R] ABC-type uncharacterized transport systems, ATPase components
+FGBPHIDH_00370	COG4603	[R] ABC-type uncharacterized transport system, permease component
+FGBPHIDH_00371	COG1079	[R] Uncharacterized ABC-type transport system, permease component
+FGBPHIDH_00372	COG1744	[R] Uncharacterized ABC-type transport system, periplasmic component/surface
+FGBPHIDH_00373	COG4638	[PR] Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases,
+FGBPHIDH_00374	COG0717	[F] Deoxycytidine deaminase    
+FGBPHIDH_00375	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00376	ROG1873	
+FGBPHIDH_00377	COG3668	[R] Plasmid stabilization system protein  
+FGBPHIDH_00378	COG3905	[K] Predicted transcriptional regulator   
+FGBPHIDH_00379	COG2189	[L] Adenine specific DNA methylase Mod 
+FGBPHIDH_00380	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+FGBPHIDH_00382	COG5005	[R] Mu-like prophage protein gpG  
+FGBPHIDH_00383	COG1687	[E] Predicted branched-chain amino acid permeases (azaleucine
+FGBPHIDH_00384	COG1296	[E] Predicted branched-chain amino acid permease (azaleucine
+FGBPHIDH_00385	COG1396	[K] Predicted transcriptional regulators   
+FGBPHIDH_00386	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_00387	COG0207	[F] Thymidylate synthase    
+FGBPHIDH_00388	COG0277	[C] FAD/FMN-containing dehydrogenases    
+FGBPHIDH_00389	COG3308	[S] Predicted membrane protein   
+FGBPHIDH_00390	COG1295	[S] Predicted membrane protein   
+FGBPHIDH_00391	COG0004	[P] Ammonia permease    
+FGBPHIDH_00392	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+FGBPHIDH_00393	COG2873	[E] O-acetylhomoserine sulfhydrylase    
+FGBPHIDH_00394	COG0517	[R] FOG: CBS domain   
+FGBPHIDH_00395	COG5538	[U] Preprotein translocase subunit Sec66  
+FGBPHIDH_00396	COG0082	[E] Chorismate synthase    
+FGBPHIDH_00398	COG4094	[S] Predicted membrane protein   
+FGBPHIDH_00399	COG0376	[P] Catalase (peroxidase I)   
+FGBPHIDH_00400	COG2199	[T] FOG: GGDEF domain   
+FGBPHIDH_00401	COG0422	[H] Thiamine biosynthesis protein ThiC  
+FGBPHIDH_00402	COG0361	[J] Translation initiation factor 1 (IF-1) 
+FGBPHIDH_00403	COG0008	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+FGBPHIDH_00405	COG1968	[V] Uncharacterized bacitracin resistance protein  
+FGBPHIDH_00406	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+FGBPHIDH_00407	COG3484	[O] Predicted proteasome-type protease   
+FGBPHIDH_00408	COG0507	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+FGBPHIDH_00409	COG1074	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+FGBPHIDH_00410	COG1330	[L] Exonuclease V gamma subunit  
+FGBPHIDH_00411	COG0782	[K] Transcription elongation factor   
+FGBPHIDH_00412	COG0317	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+FGBPHIDH_00413	COG1758	[K] DNA-directed RNA polymerase, subunit K/omega 
+FGBPHIDH_00414	COG0194	[F] Guanylate kinase    
+FGBPHIDH_00415	COG1561	[S] Uncharacterized stress-induced protein   
+FGBPHIDH_00416	COG0515	[RTKL] Serine/threonine protein kinase   
+FGBPHIDH_00417	COG0631	[T] Serine/threonine protein phosphatase   
+FGBPHIDH_00418	COG0689	[J] RNase PH    
+FGBPHIDH_00419	COG0127	[F] Xanthosine triphosphate pyrophosphatase   
+FGBPHIDH_00420	COG0635	[H] Coproporphyrinogen III oxidase and related Fe-S
+FGBPHIDH_00421	COG0517	[R] FOG: CBS domain   
+FGBPHIDH_00422	ROG0029	
+FGBPHIDH_00423	COG3228	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00424	COG2908	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00425	COG0652	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+FGBPHIDH_00426	COG0457	[R] FOG: TPR repeat   
+FGBPHIDH_00427	COG0215	[J] Cysteinyl-tRNA synthetase    
+FGBPHIDH_00428	COG0122	[L] 3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase 
+FGBPHIDH_00429	COG0825	[I] Acetyl-CoA carboxylase alpha subunit  
+FGBPHIDH_00430	COG0037	[D] Predicted ATPase of the PP-loop superfamily
+FGBPHIDH_00431	ROG0049	
+FGBPHIDH_00432	COG0527	[E] Aspartokinases     
+FGBPHIDH_00434	COG0252	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+FGBPHIDH_00435	COG0563	[F] Adenylate kinase and related kinases 
+FGBPHIDH_00436	COG1212	[M] CMP-2-keto-3-deoxyoctulosonic acid synthetase   
+FGBPHIDH_00437	COG2835	[S] Uncharacterized conserved protein   
+FGBPHIDH_00438	COG1663	[M] Tetraacyldisaccharide-1-P 4'-kinase    
+FGBPHIDH_00439	COG0848	[U] Biopolymer transport protein   
+FGBPHIDH_00440	COG0811	[U] Biopolymer transport proteins   
+FGBPHIDH_00441	COG1570	[L] Exonuclease VII, large subunit  
+FGBPHIDH_00442	COG0605	[P] Superoxide dismutase    
+FGBPHIDH_00443	COG1430	[S] Uncharacterized conserved protein   
+FGBPHIDH_00444	COG0538	[C] Isocitrate dehydrogenases    
+FGBPHIDH_00445	COG0426	[C] Uncharacterized flavoproteins    
+FGBPHIDH_00446	COG2127	[S] Uncharacterized conserved protein   
+FGBPHIDH_00447	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+FGBPHIDH_00448	COG0350	[L] Methylated DNA-protein cysteine methyltransferase  
+FGBPHIDH_00449	COG2925	[L] Exonuclease I    
+FGBPHIDH_00450	COG2200	[T] FOG: EAL domain   
+FGBPHIDH_00451	COG0433	[R] Predicted ATPase    
+FGBPHIDH_00452	COG0217	[S] Uncharacterized conserved protein   
+FGBPHIDH_00453	COG0151	[F] Phosphoribosylamine-glycine ligase    
+FGBPHIDH_00454	COG0408	[H] Coproporphyrinogen III oxidase   
+FGBPHIDH_00455	COG1057	[H] Nicotinic acid mononucleotide adenylyltransferase  
+FGBPHIDH_00456	COG0799	[S] Uncharacterized homolog of plant Iojap protein
+FGBPHIDH_00457	COG1576	[S] Uncharacterized conserved protein   
+FGBPHIDH_00458	COG0424	[D] Nucleotide-binding protein implicated in inhibition of
+FGBPHIDH_00459	COG1530	[J] Ribonucleases G and E  
+FGBPHIDH_00460	COG1132	[V] ABC-type multidrug transport system, ATPase and
+FGBPHIDH_00461	COG0823	[U] Periplasmic component of the Tol biopolymer
+FGBPHIDH_00462	COG2885	[M] Outer membrane protein and related peptidoglycan-associated
+FGBPHIDH_00463	COG1729	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00464	COG2391	[R] Predicted transporter component   
+FGBPHIDH_00465	COG1179	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+FGBPHIDH_00468	COG0796	[M] Glutamate racemase    
+FGBPHIDH_00469	COG1610	[S] Uncharacterized conserved protein   
+FGBPHIDH_00470	COG0828	[J] Ribosomal protein S21   
+FGBPHIDH_00471	COG2326	[S] Uncharacterized conserved protein   
+FGBPHIDH_00472	COG0727	[R] Predicted Fe-S-cluster oxidoreductase   
+FGBPHIDH_00473	COG0078	[E] Ornithine carbamoyltransferase    
+FGBPHIDH_00474	COG4992	[E] Ornithine/acetylornithine aminotransferase    
+FGBPHIDH_00476	COG0268	[J] Ribosomal protein S20   
+FGBPHIDH_00477	COG3239	[I] Fatty acid desaturase   
+FGBPHIDH_00478	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+FGBPHIDH_00480	COG1253	[R] Hemolysins and related proteins containing CBS
+FGBPHIDH_00481	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_00482	COG1850	[G] Ribulose 1,5-bisphosphate carboxylase, large subunit 
+FGBPHIDH_00483	COG4451	[C] Ribulose bisphosphate carboxylase small subunit 
+FGBPHIDH_00484	ROG0996	
+FGBPHIDH_00485	ROG0963	
+FGBPHIDH_00486	ROG5428	
+FGBPHIDH_00487	ROG6086	
+FGBPHIDH_00488	COG4577	[QC] Carbon dioxide concentrating mechanism/carboxysome shell protein
+FGBPHIDH_00489	COG4577	[QC] Carbon dioxide concentrating mechanism/carboxysome shell protein
+FGBPHIDH_00490	COG2193	[P] Bacterioferritin (cytochrome b1)   
+FGBPHIDH_00491	ROG1024	
+FGBPHIDH_00492	COG0455	[D] ATPases involved in chromosome partitioning 
+FGBPHIDH_00493	ROG0500	
+FGBPHIDH_00494	COG5271_4X	
+FGBPHIDH_00495	COG4548	[P] Nitric oxide reductase activation protein 
+FGBPHIDH_00496	ROG0125	
+FGBPHIDH_00497	ROG2401	
+FGBPHIDH_00498	COG3329	[R] Predicted permease    
+FGBPHIDH_00499	ROG2411	
+FGBPHIDH_00500	COG1002	[V] Type II restriction enzyme, methylase subunits
+FGBPHIDH_00501	ROG7225	
+FGBPHIDH_00502	COG3046	[R] Uncharacterized protein related to deoxyribodipyrimidine photolyase
+FGBPHIDH_00503	COG0415	[L] Deoxyribodipyrimidine photolyase    
+FGBPHIDH_00504	COG4338	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00505	COG0415	[L] Deoxyribodipyrimidine photolyase    
+FGBPHIDH_00506	ROG0063	
+FGBPHIDH_00507	COG0300	[R] Short-chain dehydrogenases of various substrate specificities
+FGBPHIDH_00508	ROG0055	
+FGBPHIDH_00509	COG2211	[G] Na+/melibiose symporter and related transporters 
+FGBPHIDH_00510	ROG0827	
+FGBPHIDH_00511	ROG0827	
+FGBPHIDH_00512	COG2230	[M] Cyclopropane fatty acid synthase and related
+FGBPHIDH_00513	COG3496	[S] Uncharacterized conserved protein   
+FGBPHIDH_00514	COG2907	[R] Predicted NAD/FAD-binding protein   
+FGBPHIDH_00515	ROG6619	
+FGBPHIDH_00516	COG1522	[K] Transcriptional regulators    
+FGBPHIDH_00517	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_00518	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_00519	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+FGBPHIDH_00520	COG0158	[G] Fructose-1,6-bisphosphatase     
+FGBPHIDH_00521	COG3954	[C] Phosphoribulokinase     
+FGBPHIDH_00522	COG0021	[G] Transketolase     
+FGBPHIDH_00523	COG0546	[R] Predicted phosphatases    
+FGBPHIDH_00524	COG0057	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+FGBPHIDH_00525	COG0126	[G] 3-phosphoglycerate kinase    
+FGBPHIDH_00526	COG0191	[G] Fructose/tagatose bisphosphate aldolase   
+FGBPHIDH_00527	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+FGBPHIDH_00528	COG2956	[G] Predicted N-acetylglucosaminyl transferase   
+FGBPHIDH_00529	ROG1749	
+FGBPHIDH_00530	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+FGBPHIDH_00531	COG0539	[J] Ribosomal protein S1   
+FGBPHIDH_00532	COG0128	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+FGBPHIDH_00533	COG0287	[E] Prephenate dehydrogenase    
+FGBPHIDH_00534	COG0077	[E] Prephenate dehydratase    
+FGBPHIDH_00535	COG1932	[HE] Phosphoserine aminotransferase    
+FGBPHIDH_00536	COG0188	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+FGBPHIDH_00537	COG2885	[M] Outer membrane protein and related peptidoglycan-associated
+FGBPHIDH_00538	COG2227	[H] 2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase    
+FGBPHIDH_00539	COG0546	[R] Predicted phosphatases    
+FGBPHIDH_00541	COG2944	[K] Predicted transcriptional regulator   
+FGBPHIDH_00542	COG4737	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00543	COG2119	[S] Predicted membrane protein   
+FGBPHIDH_00544	COG4539	[S] Predicted membrane protein   
+FGBPHIDH_00545	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+FGBPHIDH_00546	COG4662	[H] ABC-type tungstate transport system, periplasmic component
+FGBPHIDH_00547	COG1121	[P] ABC-type Mn/Zn transport systems, ATPase component
+FGBPHIDH_00548	COG2998	[H] ABC-type tungstate transport system, permease component
+FGBPHIDH_00549	COG3284	[QK] Transcriptional activator of acetoin/glycerol metabolism 
+FGBPHIDH_00550	COG1142	[C] Fe-S-cluster-containing hydrogenase components 2  
+FGBPHIDH_00551	COG2414	[C] Aldehyde:ferredoxin oxidoreductase    
+FGBPHIDH_00552	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+FGBPHIDH_00553	ROG0502	
+FGBPHIDH_00554	ROG6568	
+FGBPHIDH_00555	COG1765	[O] Predicted redox protein, regulator of disulfide
+FGBPHIDH_00557	COG1012	[C] NAD-dependent aldehyde dehydrogenases   
+FGBPHIDH_00558	COG0010	[E] Arginase/agmatinase/formimionoglutamate hydrolase, arginase family  
+FGBPHIDH_00559	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+FGBPHIDH_00560	COG1177	[E] ABC-type spermidine/putrescine transport system, permease component
+FGBPHIDH_00561	COG1176	[E] ABC-type spermidine/putrescine transport system, permease component
+FGBPHIDH_00562	COG0687	[E] Spermidine/putrescine-binding periplasmic protein   
+FGBPHIDH_00563	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+FGBPHIDH_00564	COG1804	[C] Predicted acyl-CoA transferases/carnitine dehydratase  
+FGBPHIDH_00565	COG1960	[I] Acyl-CoA dehydrogenases    
+FGBPHIDH_00566	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_00567	ROG0946	
+FGBPHIDH_00568	COG0160	[E] 4-aminobutyrate aminotransferase and related aminotransferases 
+FGBPHIDH_00569	COG1167	[KE] Transcriptional regulators containing a DNA-binding HTH
+FGBPHIDH_00570	COG1236	[J] Predicted exonuclease of the beta-lactamase fold
+FGBPHIDH_00571	COG0484	[O] DnaJ-class molecular chaperone with C-terminal Zn
+FGBPHIDH_00572	COG0443	[O] Molecular chaperone    
+FGBPHIDH_00573	COG0576	[O] Molecular chaperone GrpE (heat shock protein)
+FGBPHIDH_00574	COG0179	[Q] 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+FGBPHIDH_00575	COG1846	[K] Transcriptional regulators    
+FGBPHIDH_00576	COG0518	[F] GMP synthase - Glutamine amidotransferase domain
+FGBPHIDH_00578	COG1024	[I] Enoyl-CoA hydratase/carnithine racemase   
+FGBPHIDH_00579	COG1414	[K] Transcriptional regulator    
+FGBPHIDH_00580	COG0426	[C] Uncharacterized flavoproteins    
+FGBPHIDH_00581	COG0346	[E] Lactoylglutathione lyase and related lyases 
+FGBPHIDH_00582	COG0654	[HC] 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+FGBPHIDH_00583	ROG0513	
+FGBPHIDH_00584	COG0179	[Q] 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+FGBPHIDH_00585	COG4191	[T] Signal transduction histidine kinase regulating C4-dicarboxylate
+FGBPHIDH_00586	COG0683	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_00587	COG2200	[T] FOG: EAL domain   
+FGBPHIDH_00588	COG0568	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+FGBPHIDH_00589	COG0358	[L] DNA primase (bacterial type)  
+FGBPHIDH_00591	COG0715	[P] ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components
+FGBPHIDH_00592	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00593	COG0715	[P] ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components
+FGBPHIDH_00595	COG1028	[IQR] Dehydrogenases with different specificities (related to
+FGBPHIDH_00597	COG3405	[G] Endoglucanase Y    
+FGBPHIDH_00598	ROG5806	
+FGBPHIDH_00599	COG1215	[M] Glycosyltransferases, probably involved in cell wall
+FGBPHIDH_00600	COG3666	[L] Transposase and inactivated derivatives  
+FGBPHIDH_00601	COG1215	[M] Glycosyltransferases, probably involved in cell wall
+FGBPHIDH_00602	ROG5549	
+FGBPHIDH_00603	COG1840	[P] ABC-type Fe3+ transport system, periplasmic component
+FGBPHIDH_00604	COG1752	[R] Predicted esterase of the alpha-beta hydrolase
+FGBPHIDH_00605	ROG0790	
+FGBPHIDH_00606	COG0123	[BQ] Deacetylases, including yeast histone deacetylase and
+FGBPHIDH_00607	COG0824	[R] Predicted thioesterase    
+FGBPHIDH_00608	COG0778	[C] Nitroreductase     
+FGBPHIDH_00610	COG0003	[P] Oxyanion-translocating ATPase    
+FGBPHIDH_00611	ROG8413	
+FGBPHIDH_00612	COG1052	[CHR] Lactate dehydrogenase and related dehydrogenases 
+FGBPHIDH_00613	COG1009	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+FGBPHIDH_00614	COG2111	[P] Multisubunit Na+/H+ antiporter, MnhB subunit 
+FGBPHIDH_00615	COG1006	[P] Multisubunit Na+/H+ antiporter, MnhC subunit 
+FGBPHIDH_00616	COG0651	[CP] Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter,
+FGBPHIDH_00617	COG1863	[P] Multisubunit Na+/H+ antiporter, MnhE subunit 
+FGBPHIDH_00618	COG2212	[P] Multisubunit Na+/H+ antiporter, MnhF subunit 
+FGBPHIDH_00619	COG1320	[P] Multisubunit Na+/H+ antiporter, MnhG subunit 
+FGBPHIDH_00620	COG1009	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+FGBPHIDH_00621	COG1006	[P] Multisubunit Na+/H+ antiporter, MnhC subunit 
+FGBPHIDH_00622	COG0651	[CP] Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter,
+FGBPHIDH_00623	COG1863	[P] Multisubunit Na+/H+ antiporter, MnhE subunit 
+FGBPHIDH_00624	COG2212	[P] Multisubunit Na+/H+ antiporter, MnhF subunit 
+FGBPHIDH_00625	COG1320	[P] Multisubunit Na+/H+ antiporter, MnhG subunit 
+FGBPHIDH_00626	COG1611	[R] Predicted Rossmann fold nucleotide-binding protein 
+FGBPHIDH_00627	COG0231	[J] Translation elongation factor P (EF-P)/translation initiation
+FGBPHIDH_00628	COG5573	[R] Predicted nucleic-acid-binding protein, contains PIN domain
+FGBPHIDH_00629	COG4118	[D] Antitoxin of toxin-antitoxin stability system 
+FGBPHIDH_00630	COG4394	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00631	COG0322	[L] Nuclease subunit of the excinuclease complex
+FGBPHIDH_00632	COG0558	[I] Phosphatidylglycerophosphate synthase    
+FGBPHIDH_00633	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_00634	COG0473	[CE] Isocitrate/isopropylmalate dehydrogenase    
+FGBPHIDH_00635	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+FGBPHIDH_00637	COG0250	[K] Transcription antiterminator    
+FGBPHIDH_00638	ROG1301	
+FGBPHIDH_00639	COG1087	[M] UDP-glucose 4-epimerase    
+FGBPHIDH_00640	ROG1168	
+FGBPHIDH_00641	ROG2945	
+FGBPHIDH_00642	COG1210	[M] UDP-glucose pyrophosphorylase    
+FGBPHIDH_00643	COG1487	[R] Predicted nucleic acid-binding protein, contains PIN
+FGBPHIDH_00644	COG0677	[M] UDP-N-acetyl-D-mannosaminuronate dehydrogenase    
+FGBPHIDH_00645	COG0673	[R] Predicted dehydrogenases and related proteins 
+FGBPHIDH_00646	COG1044	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+FGBPHIDH_00647	COG0399	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+FGBPHIDH_00648	COG0381	[M] UDP-N-acetylglucosamine 2-epimerase    
+FGBPHIDH_00649	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+FGBPHIDH_00650	COG0399	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+FGBPHIDH_00652	COG0367	[E] Asparagine synthase (glutamine-hydrolyzing)   
+FGBPHIDH_00653	COG0223	[J] Methionyl-tRNA formyltransferase    
+FGBPHIDH_00655	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00656	COG0438	[M] Glycosyltransferase     
+FGBPHIDH_00657	COG2244	[R] Membrane protein involved in the export
+FGBPHIDH_00658	ROG0532	
+FGBPHIDH_00659	COG0367	[E] Asparagine synthase (glutamine-hydrolyzing)   
+FGBPHIDH_00660	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00661	COG2801	[L] Transposase and inactivated derivatives  
+FGBPHIDH_00662	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00663	ROG2610	
+FGBPHIDH_00664	COG0438	[M] Glycosyltransferase     
+FGBPHIDH_00666	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00667	COG3666	[L] Transposase and inactivated derivatives  
+FGBPHIDH_00668	COG0438	[M] Glycosyltransferase     
+FGBPHIDH_00669	COG0367	[E] Asparagine synthase (glutamine-hydrolyzing)   
+FGBPHIDH_00670	COG0438	[M] Glycosyltransferase     
+FGBPHIDH_00671	COG0472	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+FGBPHIDH_00672	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+FGBPHIDH_00675	COG4190	[K] Predicted transcriptional regulator   
+FGBPHIDH_00676	COG0591	[ER] Na+/proline symporter    
+FGBPHIDH_00677	COG0604	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+FGBPHIDH_00679	COG2337	[T] Growth inhibitor    
+FGBPHIDH_00680	ROG6617	
+FGBPHIDH_00681	COG2856	[E] Predicted Zn peptidase   
+FGBPHIDH_00682	COG0496	[R] Predicted acid phosphatase   
+FGBPHIDH_00683	COG2518	[O] Protein-L-isoaspartate carboxylmethyltransferase    
+FGBPHIDH_00684	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+FGBPHIDH_00685	COG2265	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+FGBPHIDH_00686	ROG3222	
+FGBPHIDH_00687	COG0670	[R] Integral membrane protein, interacts with FtsH
+FGBPHIDH_00688	COG0848	[U] Biopolymer transport protein   
+FGBPHIDH_00689	COG0811	[U] Biopolymer transport proteins   
+FGBPHIDH_00690	COG0810	[M] Periplasmic protein TonB, links inner and
+FGBPHIDH_00691	COG1304	[C] L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy
+FGBPHIDH_00692	COG3128	[S] Uncharacterized iron-regulated protein   
+FGBPHIDH_00693	COG1629	[P] Outer membrane receptor proteins, mostly Fe
+FGBPHIDH_00694	COG0450	[O] Peroxiredoxin     
+FGBPHIDH_00695	COG3634	[O] Alkyl hydroperoxide reductase, large subunit 
+FGBPHIDH_00696	COG1629	[P] Outer membrane receptor proteins, mostly Fe
+FGBPHIDH_00697	COG3720	[P] Putative heme degradation protein  
+FGBPHIDH_00698	COG4558	[P] ABC-type hemin transport system, periplasmic component
+FGBPHIDH_00699	COG0609	[P] ABC-type Fe3+-siderophore transport system, permease component
+FGBPHIDH_00700	COG4559	[P] ABC-type hemin transport system, ATPase component
+FGBPHIDH_00701	COG3317	[M] Uncharacterized lipoprotein    
+FGBPHIDH_00702	COG0329	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+FGBPHIDH_00703	COG0500	[QR] SAM-dependent methyltransferases    
+FGBPHIDH_00704	ROG7364	
+FGBPHIDH_00706	COG0187	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+FGBPHIDH_00707	COG3907	[R] PAP2 (acid phosphatase) superfamily protein 
+FGBPHIDH_00708	COG0745	[TK] Response regulators consisting of a CheY-like
+FGBPHIDH_00709	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+FGBPHIDH_00710	COG2194	[R] Predicted membrane-associated, metal-dependent hydrolase  
+FGBPHIDH_00711	COG0818	[M] Diacylglycerol kinase    
+FGBPHIDH_00712	COG3161	[H] 4-hydroxybenzoate synthetase (chorismate lyase)  
+FGBPHIDH_00713	COG0188	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+FGBPHIDH_00714	COG0251	[J] Putative translation initiation inhibitor, yjgF family
+FGBPHIDH_00715	COG1765	[O] Predicted redox protein, regulator of disulfide
+FGBPHIDH_00716	COG2333	[R] Predicted hydrolase (metallo-beta-lactamase superfamily)  
+FGBPHIDH_00717	COG2200	[T] FOG: EAL domain   
+FGBPHIDH_00718	COG2308	[S] Uncharacterized conserved protein   
+FGBPHIDH_00719	COG2307	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00720	COG4729	[S] Uncharacterized conserved protein   
+FGBPHIDH_00721	COG4666	[R] TRAP-type uncharacterized transport system, fused permease
+FGBPHIDH_00722	COG2358	[R] TRAP-type uncharacterized transport system, periplasmic component
+FGBPHIDH_00723	COG2951	[M] Membrane-bound lytic murein transglycosylase B 
+FGBPHIDH_00725	COG0714	[R] MoxR-like ATPases    
+FGBPHIDH_00726	COG0123	[BQ] Deacetylases, including yeast histone deacetylase and
+FGBPHIDH_00727	COG1024	[I] Enoyl-CoA hydratase/carnithine racemase   
+FGBPHIDH_00728	COG3264	[M] Small-conductance mechanosensitive channel   
+FGBPHIDH_00729	COG2086	[C] Electron transfer flavoprotein, beta subunit 
+FGBPHIDH_00730	COG2025	[C] Electron transfer flavoprotein, alpha subunit 
+FGBPHIDH_00731	COG1960	[I] Acyl-CoA dehydrogenases    
+FGBPHIDH_00732	COG2070	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+FGBPHIDH_00733	COG0553	[KL] Superfamily II DNA/RNA helicases, SNF2 family
+FGBPHIDH_00734	ROG7540	
+FGBPHIDH_00735	COG1743	[L] Adenine-specific DNA methylase containing a Zn-ribbon
+FGBPHIDH_00736	COG4637	[R] Predicted ATPase    
+FGBPHIDH_00737	ROG1077	
+FGBPHIDH_00738	ROG0131	
+FGBPHIDH_00739	COG2865	[K] Predicted transcriptional regulator containing an HTH
+FGBPHIDH_00740	COG1483	[R] Predicted ATPase (AAA+ superfamily)  
+FGBPHIDH_00741	COG0324	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+FGBPHIDH_00742	COG0477	[GEPR] Permeases of the major facilitator superfamily
+FGBPHIDH_00743	COG0323	[L] DNA mismatch repair enzyme (predicted ATPase)
+FGBPHIDH_00744	COG0860	[M] N-acetylmuramoyl-L-alanine amidase    
+FGBPHIDH_00745	COG0802	[R] Predicted ATPase or kinase  
+FGBPHIDH_00746	COG1600	[C] Uncharacterized Fe-S protein   
+FGBPHIDH_00747	COG0767	[Q] ABC-type transport system involved in resistance
+FGBPHIDH_00748	ROG5953	
+FGBPHIDH_00749	ROG3011	
+FGBPHIDH_00751	COG0500	[QR] SAM-dependent methyltransferases    
+FGBPHIDH_00752	COG0328	[L] Ribonuclease HI    
+FGBPHIDH_00753	COG0845	[M] Membrane-fusion protein    
+FGBPHIDH_00754	COG0841	[V] Cation/multidrug efflux pump   
+FGBPHIDH_00755	ROG1120	
+FGBPHIDH_00756	COG2337	[T] Growth inhibitor    
+FGBPHIDH_00757	COG1875	[T] Predicted ATPase related to phosphate starvation-inducible
+FGBPHIDH_00758	COG1225	[O] Peroxiredoxin     
+FGBPHIDH_00759	COG3737	[S] Uncharacterized conserved protein   
+FGBPHIDH_00760	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+FGBPHIDH_00761	COG0460	[E] Homoserine dehydrogenase    
+FGBPHIDH_00762	COG0498	[E] Threonine synthase    
+FGBPHIDH_00763	COG0303	[H] Molybdopterin biosynthesis enzyme   
+FGBPHIDH_00764	COG5001	[T] Predicted signal transduction protein containing a
+FGBPHIDH_00765	COG1977	[H] Molybdopterin converting factor, small subunit 
+FGBPHIDH_00766	COG0314	[H] Molybdopterin converting factor, large subunit 
+FGBPHIDH_00767	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+FGBPHIDH_00768	COG1004	[M] Predicted UDP-glucose 6-dehydrogenase   
+FGBPHIDH_00769	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+FGBPHIDH_00770	COG0392	[S] Predicted integral membrane protein  
+FGBPHIDH_00771	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+FGBPHIDH_00772	COG0271	[T] Stress-induced morphogen (activity unknown)  
+FGBPHIDH_00773	COG2917	[D] Intracellular septation protein A  
+FGBPHIDH_00774	COG0229	[O] Conserved domain frequently associated with peptide
+FGBPHIDH_00775	COG0397	[S] Uncharacterized conserved protein   
+FGBPHIDH_00776	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+FGBPHIDH_00777	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00778	COG2508	[TQ] Regulator of polyketide synthase expression 
+FGBPHIDH_00779	COG2801	[L] Transposase and inactivated derivatives  
+FGBPHIDH_00781	ROG2610	
+FGBPHIDH_00782	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00783	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00784	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00785	COG2072	[P] Predicted flavoprotein involved in K+ transport
+FGBPHIDH_00786	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+FGBPHIDH_00787	ROG2610	
+FGBPHIDH_00788	COG5285	[Q] Protein involved in biosynthesis of mitomycin
+FGBPHIDH_00789	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00790	ROG0015	
+FGBPHIDH_00791	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+FGBPHIDH_00792	COG0683	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_00793	COG0559	[E] Branched-chain amino acid ABC-type transport system,
+FGBPHIDH_00794	COG4177	[E] ABC-type branched-chain amino acid transport system,
+FGBPHIDH_00795	COG0411	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_00796	COG0410	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_00797	COG2905	[T] Predicted signal-transduction protein containing cAMP-binding and
+FGBPHIDH_00798	COG4147	[R] Predicted symporter    
+FGBPHIDH_00799	COG0360	[J] Ribosomal protein S6   
+FGBPHIDH_00800	COG2965	[L] Primosomal replication protein N  
+FGBPHIDH_00801	COG0238	[J] Ribosomal protein S18   
+FGBPHIDH_00802	COG0359	[J] Ribosomal protein L9   
+FGBPHIDH_00803	COG4105	[R] DNA uptake lipoprotein   
+FGBPHIDH_00804	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+FGBPHIDH_00805	COG1386	[K] Predicted transcriptional regulator containing the HTH
+FGBPHIDH_00806	COG1187	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+FGBPHIDH_00807	COG0105	[F] Nucleoside diphosphate kinase   
+FGBPHIDH_00808	COG0820	[R] Predicted Fe-S-cluster redox enzyme  
+FGBPHIDH_00809	COG3063	[NU] Tfp pilus assembly protein PilF 
+FGBPHIDH_00810	COG1426	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00811	COG0821	[I] Enzyme involved in the deoxyxylulose pathway
+FGBPHIDH_00812	COG0124	[J] Histidyl-tRNA synthetase    
+FGBPHIDH_00813	COG2976	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00814	COG1520	[S] FOG: WD40-like repeat   
+FGBPHIDH_00815	COG1160	[R] Predicted GTPases    
+FGBPHIDH_00816	COG1923	[R] Uncharacterized host factor I protein 
+FGBPHIDH_00817	COG2262	[R] GTPases     
+FGBPHIDH_00818	COG0330	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+FGBPHIDH_00819	COG0330	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+FGBPHIDH_00820	COG3705	[E] ATP phosphoribosyltransferase involved in histidine biosynthesis
+FGBPHIDH_00821	COG0104	[F] Adenylosuccinate synthase    
+FGBPHIDH_00822	COG2236	[R] Predicted phosphoribosyltransferases    
+FGBPHIDH_00823	COG0626	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+FGBPHIDH_00824	COG0010	[E] Arginase/agmatinase/formimionoglutamate hydrolase, arginase family  
+FGBPHIDH_00825	COG1228	[Q] Imidazolonepropionase and related amidohydrolases  
+FGBPHIDH_00826	COG2986	[E] Histidine ammonia-lyase    
+FGBPHIDH_00827	COG2987	[E] Urocanate hydratase    
+FGBPHIDH_00828	COG3314	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00829	COG2188	[K] Transcriptional regulators    
+FGBPHIDH_00830	COG2755	[E] Lysophospholipase L1 and related esterases 
+FGBPHIDH_00831	COG4181	[Q] Predicted ABC-type transport system involved in
+FGBPHIDH_00832	COG0566	[J] rRNA methylases    
+FGBPHIDH_00833	COG2059	[P] Chromate transport protein ChrA  
+FGBPHIDH_00834	COG2059	[P] Chromate transport protein ChrA  
+FGBPHIDH_00835	COG5394	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00836	COG0621	[J] 2-methylthioadenine synthetase    
+FGBPHIDH_00839	COG0557	[K] Exoribonuclease R    
+FGBPHIDH_00840	COG0762	[S] Predicted integral membrane protein  
+FGBPHIDH_00841	COG0303	[H] Molybdopterin biosynthesis enzyme   
+FGBPHIDH_00842	COG0746	[H] Molybdopterin-guanine dinucleotide biosynthesis protein A 
+FGBPHIDH_00843	COG2896	[H] Molybdenum cofactor biosynthesis enzyme  
+FGBPHIDH_00844	ROG3300	
+FGBPHIDH_00845	COG0221	[C] Inorganic pyrophosphatase    
+FGBPHIDH_00846	COG3146	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00847	COG0171	[H] NAD synthase    
+FGBPHIDH_00848	COG0347	[E] Nitrogen regulatory protein PII  
+FGBPHIDH_00849	COG1611	[R] Predicted Rossmann fold nucleotide-binding protein 
+FGBPHIDH_00850	COG1714	[S] Predicted membrane protein/domain   
+FGBPHIDH_00851	COG0028	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+FGBPHIDH_00852	COG0440	[E] Acetolactate synthase, small (regulatory) subunit 
+FGBPHIDH_00853	COG0059	[EH] Ketol-acid reductoisomerase    
+FGBPHIDH_00854	COG1183	[I] Phosphatidylserine synthase    
+FGBPHIDH_00855	COG0119	[E] Isopropylmalate/homocitrate/citramalate synthases    
+FGBPHIDH_00856	COG1686	[M] D-alanyl-D-alanine carboxypeptidase    
+FGBPHIDH_00857	COG1414	[K] Transcriptional regulator    
+FGBPHIDH_00858	COG2935	[O] Putative arginyl-tRNA:protein arginylyltransferase   
+FGBPHIDH_00859	COG2360	[O] Leu/Phe-tRNA-protein transferase    
+FGBPHIDH_00860	COG0177	[L] Predicted EndoIII-related endonuclease   
+FGBPHIDH_00861	COG1167	[KE] Transcriptional regulators containing a DNA-binding HTH
+FGBPHIDH_00862	ROG1509	
+FGBPHIDH_00863	COG2378	[K] Predicted transcriptional regulator   
+FGBPHIDH_00866	COG1607	[I] Acyl-CoA hydrolase    
+FGBPHIDH_00868	ROG3316	
+FGBPHIDH_00869	COG1002	[V] Type II restriction enzyme, methylase subunits
+FGBPHIDH_00870	ROG4205	
+FGBPHIDH_00872	COG1350	[R] Predicted alternative tryptophan synthase beta-subunit (paralog
+FGBPHIDH_00873	COG0560	[E] Phosphoserine phosphatase    
+FGBPHIDH_00874	COG1284	[S] Uncharacterized conserved protein   
+FGBPHIDH_00875	COG1197	[LK] Transcription-repair coupling factor (superfamily II helicase)
+FGBPHIDH_00876	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+FGBPHIDH_00878	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00880	COG0245	[I] 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase   
+FGBPHIDH_00881	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+FGBPHIDH_00882	COG0745	[TK] Response regulators consisting of a CheY-like
+FGBPHIDH_00883	COG3471	[S] Predicted periplasmic/secreted protein   
+FGBPHIDH_00884	COG1028	[IQR] Dehydrogenases with different specificities (related to
+FGBPHIDH_00885	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+FGBPHIDH_00886	COG0317	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+FGBPHIDH_00888	COG0305	[L] Replicative DNA helicase   
+FGBPHIDH_00889	ROG0207	
+FGBPHIDH_00890	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+FGBPHIDH_00891	COG3195	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00892	COG0726	[G] Predicted xylanase/chitin deacetylase   
+FGBPHIDH_00893	COG1802	[K] Transcriptional regulators    
+FGBPHIDH_00894	COG2351	[R] Transthyretin-like protein    
+FGBPHIDH_00895	COG1975	[O] Xanthine and CO dehydrogenases maturation factor,
+FGBPHIDH_00896	COG0378	[OK] Ni2+-binding GTPase involved in regulation of
+FGBPHIDH_00897	COG0830	[O] Urease accessory protein UreF  
+FGBPHIDH_00898	COG2371	[O] Urease accessory protein UreE  
+FGBPHIDH_00899	COG0804	[E] Urea amidohydrolase (urease) alpha subunit 
+FGBPHIDH_00900	COG0832	[E] Urea amidohydrolase (urease) beta subunit 
+FGBPHIDH_00901	COG2370	[O] Hydrogenase/urease accessory protein   
+FGBPHIDH_00902	COG0831	[E] Urea amidohydrolase (urease) gamma subunit 
+FGBPHIDH_00903	COG0642	[T] Signal transduction histidine kinase  
+FGBPHIDH_00904	COG3706	[T] Response regulator containing a CheY-like receiver
+FGBPHIDH_00905	COG0683	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_00906	COG0559	[E] Branched-chain amino acid ABC-type transport system,
+FGBPHIDH_00907	COG4177	[E] ABC-type branched-chain amino acid transport system,
+FGBPHIDH_00908	COG4674	[R] Uncharacterized ABC-type transport system, ATPase component
+FGBPHIDH_00909	COG0410	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_00910	COG0829	[O] Urease accessory protein UreH  
+FGBPHIDH_00911	COG0600	[P] ABC-type nitrate/sulfonate/bicarbonate transport system, permease component
+FGBPHIDH_00912	COG1116	[P] ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component
+FGBPHIDH_00913	COG0715	[P] ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components
+FGBPHIDH_00914	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_00915	COG4630	[F] Xanthine dehydrogenase, iron-sulfur cluster and FAD-binding
+FGBPHIDH_00916	COG4631	[F] Xanthine dehydrogenase, molybdopterin-binding subunit B 
+FGBPHIDH_00917	COG3748	[S] Predicted membrane protein   
+FGBPHIDH_00918	ROG1216	
+FGBPHIDH_00919	COG3547	[L] Transposase and inactivated derivatives  
+FGBPHIDH_00920	ROG1216	
+FGBPHIDH_00921	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00922	COG3850	[T] Signal transduction histidine kinase, nitrate/nitrite-specific 
+FGBPHIDH_00923	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00924	COG3850	[T] Signal transduction histidine kinase, nitrate/nitrite-specific 
+FGBPHIDH_00925	COG2197	[TK] Response regulator containing a CheY-like receiver
+FGBPHIDH_00926	ROG2411	
+FGBPHIDH_00927	COG3329	[R] Predicted permease    
+FGBPHIDH_00928	COG2223	[P] Nitrate/nitrite transporter    
+FGBPHIDH_00929	COG2223	[P] Nitrate/nitrite transporter    
+FGBPHIDH_00930	COG5013	[C] Nitrate reductase alpha subunit  
+FGBPHIDH_00931	COG1140	[C] Nitrate reductase beta subunit  
+FGBPHIDH_00932	COG2180	[C] Nitrate reductase delta subunit  
+FGBPHIDH_00933	COG2181	[C] Nitrate reductase gamma subunit  
+FGBPHIDH_00934	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+FGBPHIDH_00935	COG2070	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+FGBPHIDH_00937	COG0778	[C] Nitroreductase     
+FGBPHIDH_00938	ROG1082	
+FGBPHIDH_00939	COG0043	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase and related decarboxylases 
+FGBPHIDH_00940	COG0163	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase    
+FGBPHIDH_00941	COG4273	[S] Uncharacterized conserved protein   
+FGBPHIDH_00942	COG3154	[I] Putative lipid carrier protein  
+FGBPHIDH_00944	COG0826	[O] Collagenase and related proteases  
+FGBPHIDH_00945	COG2846	[D] Regulator of cell morphogenesis and NO
+FGBPHIDH_00946	COG1959	[K] Predicted transcriptional regulator   
+FGBPHIDH_00947	COG3094	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00948	COG0348	[C] Polyferredoxin     
+FGBPHIDH_00949	COG0209	[F] Ribonucleotide reductase, alpha subunit  
+FGBPHIDH_00950	ROG2407	
+FGBPHIDH_00952	COG0352	[H] Thiamine monophosphate synthase   
+FGBPHIDH_00953	COG2022	[H] Uncharacterized enzyme of thiazole biosynthesis 
+FGBPHIDH_00954	COG2104	[H] Sulfur transfer protein involved in thiamine
+FGBPHIDH_00955	COG0665	[E] Glycine/D-amino acid oxidases (deaminating)  
+FGBPHIDH_00956	COG0351	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+FGBPHIDH_00957	COG2081	[R] Predicted flavoproteins    
+FGBPHIDH_00958	COG1146	[C] Ferredoxin     
+FGBPHIDH_00959	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_00960	COG4121	[S] Uncharacterized conserved protein   
+FGBPHIDH_00961	COG2924	[CO] Fe-S cluster protector protein  
+FGBPHIDH_00962	COG0543	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+FGBPHIDH_00963	COG1495	[O] Disulfide bond formation protein DsbB 
+FGBPHIDH_00964	COG0579	[R] Predicted dehydrogenase    
+FGBPHIDH_00965	COG1280	[E] Putative threonine efflux protein  
+FGBPHIDH_00966	COG0167	[F] Dihydroorotate dehydrogenase    
+FGBPHIDH_00967	COG0120	[G] Ribose 5-phosphate isomerase   
+FGBPHIDH_00968	COG0339	[E] Zn-dependent oligopeptidases    
+FGBPHIDH_00969	COG1534	[J] Predicted RNA-binding protein containing KH domain,
+FGBPHIDH_00970	COG0293	[J] 23S rRNA methylase   
+FGBPHIDH_00971	COG0465	[O] ATP-dependent Zn proteases   
+FGBPHIDH_00972	COG0294	[H] Dihydropteroate synthase and related enzymes 
+FGBPHIDH_00973	COG1109	[G] Phosphomannomutase     
+FGBPHIDH_00974	COG2071	[R] Predicted glutamine amidotransferases   
+FGBPHIDH_00975	COG3176	[R] Putative hemolysin    
+FGBPHIDH_00976	COG0855	[P] Polyphosphate kinase    
+FGBPHIDH_00977	COG2062	[T] Phosphohistidine phosphatase SixA   
+FGBPHIDH_00978	COG0248	[FP] Exopolyphosphatase     
+FGBPHIDH_00979	COG1117	[P] ABC-type phosphate transport system, ATPase component
+FGBPHIDH_00980	COG0581	[P] ABC-type phosphate transport system, permease component
+FGBPHIDH_00981	COG0573	[P] ABC-type phosphate transport system, permease component
+FGBPHIDH_00982	COG0226	[P] ABC-type phosphate transport system, periplasmic component
+FGBPHIDH_00983	COG0704	[P] Phosphate uptake regulator   
+FGBPHIDH_00984	COG0745	[TK] Response regulators consisting of a CheY-like
+FGBPHIDH_00985	COG0642	[T] Signal transduction histidine kinase  
+FGBPHIDH_00986	COG1807	[M] 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of
+FGBPHIDH_00987	COG0254	[J] Ribosomal protein L31   
+FGBPHIDH_00988	COG1158	[K] Transcription termination factor   
+FGBPHIDH_00989	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+FGBPHIDH_00990	COG2812	[L] DNA polymerase III, gamma/tau subunits 
+FGBPHIDH_00991	COG0718	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_00992	COG0353	[L] Recombinational DNA repair protein (RecF pathway)
+FGBPHIDH_00993	COG0715	[P] ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components
+FGBPHIDH_00994	COG0272	[L] NAD-dependent DNA ligase (contains BRCT domain
+FGBPHIDH_00995	ROG2067	
+FGBPHIDH_00996	COG2844	[O] UTP:GlnB (protein PII) uridylyltransferase  
+FGBPHIDH_00997	COG0024	[J] Methionine aminopeptidase    
+FGBPHIDH_01000	COG0625	[O] Glutathione S-transferase    
+FGBPHIDH_01001	COG0779	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01002	COG0195	[K] Transcription elongation factor   
+FGBPHIDH_01003	COG0532	[J] Translation initiation factor 2 (IF-2; GTPase)
+FGBPHIDH_01004	COG0858	[J] Ribosome-binding factor A   
+FGBPHIDH_01005	COG0130	[J] Pseudouridine synthase    
+FGBPHIDH_01006	COG1217	[T] Predicted membrane GTPase involved in stress
+FGBPHIDH_01007	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_01008	COG1024	[I] Enoyl-CoA hydratase/carnithine racemase   
+FGBPHIDH_01009	COG0691	[O] tmRNA-binding protein    
+FGBPHIDH_01010	COG2867	[I] Oligoketide cyclase/lipid transport protein  
+FGBPHIDH_01011	COG2914	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01012	COG0516	[F] IMP dehydrogenase/GMP reductase   
+FGBPHIDH_01013	ROG3996	
+FGBPHIDH_01014	ROG0743	
+FGBPHIDH_01015	COG0519	[F] GMP synthase, PP-ATPase domain/subunit  
+FGBPHIDH_01016	COG1669	[R] Predicted nucleotidyltransferases    
+FGBPHIDH_01017	COG2361	[S] Uncharacterized conserved protein   
+FGBPHIDH_01018	COG2808	[K] Transcriptional regulator    
+FGBPHIDH_01019	COG0590	[FJ] Cytosine/adenosine deaminases    
+FGBPHIDH_01020	COG1619	[V] Uncharacterized proteins, homologs of microcin C7
+FGBPHIDH_01021	COG0771	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+FGBPHIDH_01022	COG1181	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+FGBPHIDH_01023	COG1132	[V] ABC-type multidrug transport system, ATPase and
+FGBPHIDH_01024	ROG6257	
+FGBPHIDH_01025	COG4598	[E] ABC-type histidine transport system, ATPase component
+FGBPHIDH_01026	COG3608	[R] Predicted deacylase    
+FGBPHIDH_01027	COG4160	[E] ABC-type arginine/histidine transport system, permease component
+FGBPHIDH_01028	COG4215	[E] ABC-type arginine transport system, permease component
+FGBPHIDH_01029	COG0834	[ET] ABC-type amino acid transport/signal transduction systems,
+FGBPHIDH_01030	COG3333	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01031	ROG0250	
+FGBPHIDH_01032	COG0666	[R] FOG: Ankyrin repeat   
+FGBPHIDH_01033	COG0084	[L] Mg-dependent DNase    
+FGBPHIDH_01034	COG3215	[NU] Tfp pilus assembly protein PilZ 
+FGBPHIDH_01035	COG2812	[L] DNA polymerase III, gamma/tau subunits 
+FGBPHIDH_01036	COG0125	[F] Thymidylate kinase    
+FGBPHIDH_01038	COG1559	[R] Predicted periplasmic solute-binding protein  
+FGBPHIDH_01039	COG0354	[R] Predicted aminomethyltransferase related to GcvT 
+FGBPHIDH_01040	COG3332	[S] Uncharacterized conserved protein   
+FGBPHIDH_01041	COG0824	[R] Predicted thioesterase    
+FGBPHIDH_01042	COG0826	[O] Collagenase and related proteases  
+FGBPHIDH_01043	ROG1082	
+FGBPHIDH_01044	COG0046	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+FGBPHIDH_01045	ROG1899	
+FGBPHIDH_01046	ROG0057	
+FGBPHIDH_01047	ROG0010	
+FGBPHIDH_01048	COG5501	[S] Predicted secreted protein   
+FGBPHIDH_01049	COG1335	[Q] Amidases related to nicotinamidase  
+FGBPHIDH_01050	COG0791	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+FGBPHIDH_01051	COG2841	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01052	COG1982	[E] Arginine/lysine/ornithine decarboxylases    
+FGBPHIDH_01053	ROG1281	
+FGBPHIDH_01054	COG0330	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+FGBPHIDH_01057	ROG5538	
+FGBPHIDH_01059	ROG1511	
+FGBPHIDH_01061	COG3311	[K] Predicted transcriptional regulator   
+FGBPHIDH_01062	ROG2248	
+FGBPHIDH_01063	COG0582	[L] Integrase     
+FGBPHIDH_01064	COG2200	[T] FOG: EAL domain   
+FGBPHIDH_01065	COG1485	[R] Predicted ATPase    
+FGBPHIDH_01066	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+FGBPHIDH_01067	COG0508	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+FGBPHIDH_01068	COG0567	[C] 2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+FGBPHIDH_01069	COG2801	[L] Transposase and inactivated derivatives  
+FGBPHIDH_01070	COG2963	[L] Transposase and inactivated derivatives  
+FGBPHIDH_01071	COG0640	[K] Predicted transcriptional regulators   
+FGBPHIDH_01072	COG0365	[I] Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases 
+FGBPHIDH_01075	COG0847	[L] DNA polymerase III, epsilon subunit and
+FGBPHIDH_01076	COG0633	[C] Ferredoxin     
+FGBPHIDH_01077	COG0443	[O] Molecular chaperone    
+FGBPHIDH_01078	COG1076	[O] DnaJ-domain-containing proteins 1   
+FGBPHIDH_01079	COG0316	[S] Uncharacterized conserved protein   
+FGBPHIDH_01080	COG0822	[C] NifU homolog involved in Fe-S cluster
+FGBPHIDH_01081	COG1104	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+FGBPHIDH_01082	COG1959	[K] Predicted transcriptional regulator   
+FGBPHIDH_01083	COG4585	[T] Signal transduction histidine kinase  
+FGBPHIDH_01084	COG2197	[TK] Response regulator containing a CheY-like receiver
+FGBPHIDH_01085	COG0556	[L] Helicase subunit of the DNA excision
+FGBPHIDH_01086	COG1448	[E] Aspartate/tyrosine/aromatic aminotransferase    
+FGBPHIDH_01087	COG4553	[I] Poly-beta-hydroxyalkanoate depolymerase    
+FGBPHIDH_01088	COG2878	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfB 
+FGBPHIDH_01089	ROG0178	
+FGBPHIDH_01090	COG4770	[I] Acetyl/propionyl-CoA carboxylase, alpha subunit  
+FGBPHIDH_01091	COG4799	[I] Acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha
+FGBPHIDH_01092	ROG3520	
+FGBPHIDH_01093	COG1703	[E] Putative periplasmic protein kinase ArgK and
+FGBPHIDH_01094	COG1884	[I] Methylmalonyl-CoA mutase, N-terminal domain/subunit  
+FGBPHIDH_01095	COG1802	[K] Transcriptional regulators    
+FGBPHIDH_01096	COG0042	[J] tRNA-dihydrouridine synthase    
+FGBPHIDH_01097	COG1028	[IQR] Dehydrogenases with different specificities (related to
+FGBPHIDH_01098	COG0183	[I] Acetyl-CoA acetyltransferase    
+FGBPHIDH_01099	COG3243	[I] Poly(3-hydroxyalkanoate) synthetase    
+FGBPHIDH_01100	ROG2210	
+FGBPHIDH_01101	COG1496	[S] Uncharacterized conserved protein   
+FGBPHIDH_01102	COG0625	[O] Glutathione S-transferase    
+FGBPHIDH_01104	COG1051	[F] ADP-ribose pyrophosphatase    
+FGBPHIDH_01105	COG2198	[T] FOG: HPt domain   
+FGBPHIDH_01106	ROG0612	
+FGBPHIDH_01107	COG1196	[D] Chromosome segregation ATPases   
+FGBPHIDH_01108	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+FGBPHIDH_01109	COG2171	[E] Tetrahydrodipicolinate N-succinyltransferase    
+FGBPHIDH_01110	COG5008	[NU] Tfp pilus assembly protein, ATPase PilU
+FGBPHIDH_01111	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+FGBPHIDH_01112	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_01113	COG0457	[R] FOG: TPR repeat   
+FGBPHIDH_01114	COG3034	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01115	COG2890	[J] Methylase of polypeptide chain release factors
+FGBPHIDH_01116	COG0488	[R] ATPase components of ABC transporters with
+FGBPHIDH_01117	COG0144	[J] tRNA and rRNA cytosine-C5-methylases  
+FGBPHIDH_01118	COG2271	[G] Sugar phosphate permease   
+FGBPHIDH_01119	COG1052	[CHR] Lactate dehydrogenase and related dehydrogenases 
+FGBPHIDH_01120	COG4680	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01122	COG1250	[I] 3-hydroxyacyl-CoA dehydrogenase    
+FGBPHIDH_01123	COG1024	[I] Enoyl-CoA hydratase/carnithine racemase   
+FGBPHIDH_01124	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+FGBPHIDH_01125	COG3173	[R] Predicted aminoglycoside phosphotransferase   
+FGBPHIDH_01126	COG1960	[I] Acyl-CoA dehydrogenases    
+FGBPHIDH_01127	COG2804	[NU] Type II secretory pathway, ATPase PulE/Tfp
+FGBPHIDH_01128	ROG0736	
+FGBPHIDH_01129	COG5473	[S] Predicted integral membrane protein  
+FGBPHIDH_01130	COG4172	[R] ABC-type uncharacterized transport system, duplicated ATPase
+FGBPHIDH_01131	COG4239	[R] ABC-type uncharacterized transport system, permease component
+FGBPHIDH_01132	COG4174	[R] ABC-type uncharacterized transport system, permease component
+FGBPHIDH_01133	COG0747	[E] ABC-type dipeptide transport system, periplasmic component
+FGBPHIDH_01134	COG0623	[I] Enoyl-[acyl-carrier-protein] reductase (NADH)   
+FGBPHIDH_01135	COG2863	[C] Cytochrome c553    
+FGBPHIDH_01136	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+FGBPHIDH_01137	COG0508	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+FGBPHIDH_01138	COG2609	[C] Pyruvate dehydrogenase complex, dehydrogenase (E1) component
+FGBPHIDH_01139	COG2202	[T] FOG: PAS/PAC domain   
+FGBPHIDH_01140	COG4566	[T] Response regulator    
+FGBPHIDH_01141	COG0190	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+FGBPHIDH_01142	ROG0291	
+FGBPHIDH_01143	COG0782	[K] Transcription elongation factor   
+FGBPHIDH_01144	COG0458	[EF] Carbamoylphosphate synthase large subunit (split gene
+FGBPHIDH_01145	COG0505	[EF] Carbamoylphosphate synthase small subunit  
+FGBPHIDH_01146	COG0566	[J] rRNA methylases    
+FGBPHIDH_01147	COG0164	[L] Ribonuclease HII    
+FGBPHIDH_01148	COG0763	[M] Lipid A disaccharide synthetase  
+FGBPHIDH_01149	COG1043	[M] Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase  
+FGBPHIDH_01150	COG0764	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+FGBPHIDH_01151	COG1044	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+FGBPHIDH_01152	COG2825	[M] Outer membrane protein   
+FGBPHIDH_01153	COG4775	[M] Outer membrane protein/protective antigen OMA87 
+FGBPHIDH_01154	COG0750	[M] Predicted membrane-associated Zn-dependent proteases 1 
+FGBPHIDH_01155	COG0743	[I] 1-deoxy-D-xylulose 5-phosphate reductoisomerase   
+FGBPHIDH_01156	COG0575	[I] CDP-diglyceride synthetase    
+FGBPHIDH_01157	COG0020	[I] Undecaprenyl pyrophosphate synthase   
+FGBPHIDH_01158	COG0233	[J] Ribosome recycling factor   
+FGBPHIDH_01159	COG0528	[F] Uridylate kinase    
+FGBPHIDH_01160	COG0264	[J] Translation elongation factor Ts  
+FGBPHIDH_01161	COG0052	[J] Ribosomal protein S2   
+FGBPHIDH_01162	COG0063	[G] Predicted sugar kinase   
+FGBPHIDH_01163	COG1525	[L] Micrococcal nuclease (thermonuclease) homologs  
+FGBPHIDH_01164	COG1414	[K] Transcriptional regulator    
+FGBPHIDH_01165	COG0654	[HC] 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+FGBPHIDH_01166	COG1032	[C] Fe-S oxidoreductase    
+FGBPHIDH_01167	COG2030	[I] Acyl dehydratase    
+FGBPHIDH_01168	COG0657	[I] Esterase/lipase     
+FGBPHIDH_01169	COG1454	[C] Alcohol dehydrogenase, class IV  
+FGBPHIDH_01170	ROG0847	
+FGBPHIDH_01171	COG1639	[T] Predicted signal transduction protein  
+FGBPHIDH_01172	COG1639	[T] Predicted signal transduction protein  
+FGBPHIDH_01173	COG2183	[K] Transcriptional accessory protein   
+FGBPHIDH_01175	COG4221	[R] Short-chain alcohol dehydrogenase of unknown specificity
+FGBPHIDH_01176	COG1960	[I] Acyl-CoA dehydrogenases    
+FGBPHIDH_01177	COG2130	[R] Putative NADP-dependent oxidoreductases   
+FGBPHIDH_01178	COG2050	[Q] Uncharacterized protein, possibly involved in aromatic
+FGBPHIDH_01179	COG1028	[IQR] Dehydrogenases with different specificities (related to
+FGBPHIDH_01180	COG1960	[I] Acyl-CoA dehydrogenases    
+FGBPHIDH_01181	COG0183	[I] Acetyl-CoA acetyltransferase    
+FGBPHIDH_01182	COG1250	[I] 3-hydroxyacyl-CoA dehydrogenase    
+FGBPHIDH_01183	ROG2610	
+FGBPHIDH_01184	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+FGBPHIDH_01185	COG0847	[L] DNA polymerase III, epsilon subunit and
+FGBPHIDH_01186	COG0745	[TK] Response regulators consisting of a CheY-like
+FGBPHIDH_01187	COG0591	[ER] Na+/proline symporter    
+FGBPHIDH_01188	ROG1366	
+FGBPHIDH_01189	COG0574	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+FGBPHIDH_01190	COG1806	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01192	COG4147	[R] Predicted symporter    
+FGBPHIDH_01193	COG4327	[S] Predicted membrane protein   
+FGBPHIDH_01194	COG0406	[G] Fructose-2,6-bisphosphatase     
+FGBPHIDH_01195	COG0368	[H] Cobalamin-5-phosphate synthase    
+FGBPHIDH_01196	COG2038	[H] NaMN:DMB phosphoribosyltransferase    
+FGBPHIDH_01197	COG1492	[H] Cobyric acid synthase   
+FGBPHIDH_01198	COG0079	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+FGBPHIDH_01199	COG1270	[H] Cobalamin biosynthesis protein CobD/CbiB  
+FGBPHIDH_01200	COG1240	[H] Mg-chelatase subunit ChlD   
+FGBPHIDH_01201	COG1239	[H] Mg-chelatase subunit ChlI   
+FGBPHIDH_01202	COG1429	[H] Cobalamin biosynthesis protein CobN and related
+FGBPHIDH_01203	COG0523	[R] Putative GTPases (G3E family)  
+FGBPHIDH_01204	COG2109	[H] ATP:corrinoid adenosyltransferase    
+FGBPHIDH_01205	COG2243	[H] Precorrin-2 methylase    
+FGBPHIDH_01206	COG2875	[H] Precorrin-4 methylase    
+FGBPHIDH_01207	COG2242	[H] Precorrin-6B methylase 2   
+FGBPHIDH_01208	COG2099	[H] Precorrin-6x reductase    
+FGBPHIDH_01209	COG1010	[H] Precorrin-3B methylase    
+FGBPHIDH_01210	COG2243	[H] Precorrin-2 methylase    
+FGBPHIDH_01211	COG2082	[H] Precorrin isomerase    
+FGBPHIDH_01212	COG0155	[P] Sulfite reductase, beta subunit (hemoprotein) 
+FGBPHIDH_01213	ROG2304	
+FGBPHIDH_01214	COG0502	[H] Biotin synthase and related enzymes 
+FGBPHIDH_01215	COG4604	[P] ABC-type enterochelin transport system, ATPase component
+FGBPHIDH_01216	COG0609	[P] ABC-type Fe3+-siderophore transport system, permease component
+FGBPHIDH_01217	COG0614	[P] ABC-type Fe3+-hydroxamate transport system, periplasmic component
+FGBPHIDH_01218	COG2087	[H] Adenosyl cobinamide kinase/adenosyl cobinamide phosphate guanylyltransferase
+FGBPHIDH_01219	COG0778	[C] Nitroreductase     
+FGBPHIDH_01220	COG1797	[H] Cobyrinic acid a,c-diamide synthase  
+FGBPHIDH_01221	COG4206	[H] Outer membrane cobalamin receptor protein 
+FGBPHIDH_01222	ROG6447	
+FGBPHIDH_01223	ROG7186	
+FGBPHIDH_01224	COG0730	[R] Predicted permeases    
+FGBPHIDH_01225	COG0684	[H] Demethylmenaquinone methyltransferase    
+FGBPHIDH_01226	COG5531	[B] SWIB-domain-containing proteins implicated in chromatin remodeling
+FGBPHIDH_01227	COG0683	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_01228	ROG0934	
+FGBPHIDH_01229	COG2927	[L] DNA polymerase III, chi subunit 
+FGBPHIDH_01230	COG0260	[E] Leucyl aminopeptidase    
+FGBPHIDH_01231	COG0795	[R] Predicted permeases    
+FGBPHIDH_01232	COG0795	[R] Predicted permeases    
+FGBPHIDH_01233	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_01234	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+FGBPHIDH_01235	COG1643	[L] HrpA-like helicases    
+FGBPHIDH_01236	COG0548	[E] Acetylglutamate kinase    
+FGBPHIDH_01237	COG2182	[G] Maltose-binding periplasmic proteins/domains   
+FGBPHIDH_01238	COG2850	[S] Uncharacterized conserved protein   
+FGBPHIDH_01239	COG1047	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 2 
+FGBPHIDH_01240	COG0756	[F] dUTPase     
+FGBPHIDH_01241	COG4664	[Q] TRAP-type mannitol/chloroaromatic compound transport system, large
+FGBPHIDH_01242	COG4665	[Q] TRAP-type mannitol/chloroaromatic compound transport system, small
+FGBPHIDH_01243	COG4663	[Q] TRAP-type mannitol/chloroaromatic compound transport system, periplasmic
+FGBPHIDH_01244	COG1154	[HI] Deoxyxylulose-5-phosphate synthase    
+FGBPHIDH_01245	COG0142	[H] Geranylgeranyl pyrophosphate synthase   
+FGBPHIDH_01246	COG1722	[L] Exonuclease VII small subunit  
+FGBPHIDH_01247	COG4638	[PR] Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases,
+FGBPHIDH_01248	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_01249	COG2897	[P] Rhodanese-related sulfurtransferase    
+FGBPHIDH_01250	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_01251	COG0749	[L] DNA polymerase I - 3'-5' exonuclease
+FGBPHIDH_01252	ROG5820	
+FGBPHIDH_01253	COG2334	[R] Putative homoserine kinase type II (protein
+FGBPHIDH_01254	ROG0185	
+FGBPHIDH_01255	COG3211	[R] Predicted phosphatase    
+FGBPHIDH_01256	COG0665	[E] Glycine/D-amino acid oxidases (deaminating)  
+FGBPHIDH_01257	COG0210	[L] Superfamily I DNA and RNA helicases
+FGBPHIDH_01258	COG1360	[N] Flagellar motor protein   
+FGBPHIDH_01259	COG1291	[N] Flagellar motor component   
+FGBPHIDH_01260	COG0516	[F] IMP dehydrogenase/GMP reductase   
+FGBPHIDH_01261	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+FGBPHIDH_01262	COG0306	[P] Phosphate/sulphate permeases    
+FGBPHIDH_01263	COG1949	[A] Oligoribonuclease (3'->5' exoribonuclease)   
+FGBPHIDH_01264	COG0501	[O] Zn-dependent protease with chaperone function 
+FGBPHIDH_01265	COG1162	[R] Predicted GTPases    
+FGBPHIDH_01266	COG3725	[V] Membrane protein required for beta-lactamase induction
+FGBPHIDH_01267	COG0494	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+FGBPHIDH_01268	COG0334	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+FGBPHIDH_01269	COG5319	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01270	COG0494	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+FGBPHIDH_01271	ROG0831	
+FGBPHIDH_01272	COG1007	[C] NADH:ubiquinone oxidoreductase subunit 2 (chain N)
+FGBPHIDH_01273	COG1008	[C] NADH:ubiquinone oxidoreductase subunit 4 (chain M)
+FGBPHIDH_01274	COG1009	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+FGBPHIDH_01275	COG0713	[C] NADH:ubiquinone oxidoreductase subunit 11 or 4L
+FGBPHIDH_01276	COG0839	[C] NADH:ubiquinone oxidoreductase subunit 6 (chain J)
+FGBPHIDH_01277	COG1143	[C] Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23
+FGBPHIDH_01278	COG1005	[C] NADH:ubiquinone oxidoreductase subunit 1 (chain H)
+FGBPHIDH_01279	COG1034	[C] NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit
+FGBPHIDH_01280	COG1894	[C] NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+FGBPHIDH_01281	COG1905	[C] NADH:ubiquinone oxidoreductase 24 kD subunit 
+FGBPHIDH_01282	COG0649	[C] NADH:ubiquinone oxidoreductase 49 kD subunit 7
+FGBPHIDH_01283	COG0852	[C] NADH:ubiquinone oxidoreductase 27 kD subunit 
+FGBPHIDH_01284	COG0377	[C] NADH:ubiquinone oxidoreductase 20 kD subunit and
+FGBPHIDH_01285	COG0838	[C] NADH:ubiquinone oxidoreductase subunit 3 (chain A)
+FGBPHIDH_01287	COG1314	[U] Preprotein translocase subunit SecG  
+FGBPHIDH_01288	COG0149	[G] Triosephosphate isomerase    
+FGBPHIDH_01289	COG0604	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+FGBPHIDH_01290	COG1185	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+FGBPHIDH_01291	COG0184	[J] Ribosomal protein S15P/S13E   
+FGBPHIDH_01292	COG0683	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_01293	COG0533	[O] Metal-dependent proteases with possible chaperone activity
+FGBPHIDH_01294	COG5001	[T] Predicted signal transduction protein containing a
+FGBPHIDH_01300	COG0008	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+FGBPHIDH_01301	COG0626	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+FGBPHIDH_01302	COG0034	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+FGBPHIDH_01303	COG1286	[R] Uncharacterized membrane protein, required for colicin
+FGBPHIDH_01304	ROG2101	
+FGBPHIDH_01305	ROG2101	
+FGBPHIDH_01306	COG0285	[H] Folylpolyglutamate synthase    
+FGBPHIDH_01307	COG1393	[P] Arsenate reductase and related proteins, glutaredoxin
+FGBPHIDH_01308	COG3123	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01309	COG0137	[E] Argininosuccinate synthase    
+FGBPHIDH_01310	COG1647	[R] Esterase/lipase     
+FGBPHIDH_01312	COG0812	[M] UDP-N-acetylmuramate dehydrogenase    
+FGBPHIDH_01313	COG1666	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01314	ROG0716	
+FGBPHIDH_01315	COG0344	[S] Predicted membrane protein   
+FGBPHIDH_01316	COG0667	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+FGBPHIDH_01317	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+FGBPHIDH_01318	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+FGBPHIDH_01319	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_01320	COG1186	[J] Protein chain release factor B 
+FGBPHIDH_01321	COG0308	[E] Aminopeptidase N    
+FGBPHIDH_01322	COG0158	[G] Fructose-1,6-bisphosphatase     
+FGBPHIDH_01326	ROG1329	
+FGBPHIDH_01327	COG5519	[L] Superfamily II helicase and inactivated derivatives
+FGBPHIDH_01328	ROG2610	
+FGBPHIDH_01329	COG1479	[S] Uncharacterized conserved protein   
+FGBPHIDH_01330	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_01332	COG2801	[L] Transposase and inactivated derivatives  
+FGBPHIDH_01333	COG1872	[S] Uncharacterized conserved protein   
+FGBPHIDH_01334	ROG6516	
+FGBPHIDH_01335	COG1566	[V] Multidrug resistance efflux pump  
+FGBPHIDH_01336	COG3696	[P] Putative silver efflux pump  
+FGBPHIDH_01337	COG2026	[JD] Cytotoxic translational repressor of toxin-antitoxin stability
+FGBPHIDH_01338	COG2161	[D] Antitoxin of toxin-antitoxin stability system 
+FGBPHIDH_01339	COG0452	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+FGBPHIDH_01340	COG0504	[F] CTP synthase (UTP-ammonia lyase)  
+FGBPHIDH_01341	COG2877	[M] 3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase 
+FGBPHIDH_01342	COG5470	[S] Uncharacterized conserved protein   
+FGBPHIDH_01343	COG0148	[G] Enolase     
+FGBPHIDH_01344	COG2919	[D] Septum formation initiator   
+FGBPHIDH_01345	COG1281	[O] Disulfide bond chaperones of the HSP33
+FGBPHIDH_01346	COG0663	[R] Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily 
+FGBPHIDH_01347	COG2833	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01348	COG4974	[L] Site-specific recombinase XerD   
+FGBPHIDH_01349	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+FGBPHIDH_01350	COG0741	[M] Soluble lytic murein transglycosylase and related
+FGBPHIDH_01351	ROG2610	
+FGBPHIDH_01355	COG0466	[O] ATP-dependent Lon protease, bacterial type 
+FGBPHIDH_01356	COG1219	[O] ATP-dependent protease Clp, ATPase subunit 
+FGBPHIDH_01357	COG0740	[OU] Protease subunit of ATP-dependent Clp proteases
+FGBPHIDH_01358	COG0544	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+FGBPHIDH_01359	COG1055	[P] Na+/H+ antiporter NhaD and related arsenite
+FGBPHIDH_01361	COG3706	[T] Response regulator containing a CheY-like receiver
+FGBPHIDH_01362	COG1562	[I] Phytoene/squalene synthetase    
+FGBPHIDH_01363	COG1566	[V] Multidrug resistance efflux pump  
+FGBPHIDH_01364	COG3696	[P] Putative silver efflux pump  
+FGBPHIDH_01365	COG1562	[I] Phytoene/squalene synthetase    
+FGBPHIDH_01366	COG3380	[R] Predicted NAD/FAD-dependent oxidoreductase   
+FGBPHIDH_01367	COG0625	[O] Glutathione S-transferase    
+FGBPHIDH_01368	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+FGBPHIDH_01369	COG0276	[H] Protoheme ferro-lyase (ferrochelatase)   
+FGBPHIDH_01370	COG1188	[J] Ribosome-associated heat shock protein implicated in
+FGBPHIDH_01371	COG2128	[S] Uncharacterized conserved protein   
+FGBPHIDH_01372	COG0824	[R] Predicted thioesterase    
+FGBPHIDH_01373	COG0644	[C] Dehydrogenases (flavoproteins)    
+FGBPHIDH_01374	COG0404	[E] Glycine cleavage system T protein (aminomethyltransferase)
+FGBPHIDH_01375	COG0509	[E] Glycine cleavage system H protein (lipoate-binding)
+FGBPHIDH_01376	COG1003	[E] Glycine cleavage system protein P (pyridoxal-binding),
+FGBPHIDH_01377	COG3547	[L] Transposase and inactivated derivatives  
+FGBPHIDH_01378	COG2860	[S] Predicted membrane protein   
+FGBPHIDH_01379	COG3384	[S] Uncharacterized conserved protein   
+FGBPHIDH_01380	COG0169	[E] Shikimate 5-dehydrogenase    
+FGBPHIDH_01381	COG0176	[G] Transaldolase     
+FGBPHIDH_01382	COG0625	[O] Glutathione S-transferase    
+FGBPHIDH_01385	COG1230	[P] Co/Zn/Cd efflux system component  
+FGBPHIDH_01386	COG5494	[O] Predicted thioredoxin/glutaredoxin    
+FGBPHIDH_01388	COG0701	[R] Predicted permeases    
+FGBPHIDH_01389	COG2200	[T] FOG: EAL domain   
+FGBPHIDH_01390	COG3221	[P] ABC-type phosphate/phosphonate transport system, periplasmic component
+FGBPHIDH_01391	COG0312	[R] Predicted Zn-dependent proteases and their inactivated
+FGBPHIDH_01392	COG3028	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01393	COG0521	[H] Molybdopterin biosynthesis enzymes   
+FGBPHIDH_01394	COG1045	[E] Serine acetyltransferase    
+FGBPHIDH_01395	COG0565	[J] rRNA methylase    
+FGBPHIDH_01396	COG0483	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+FGBPHIDH_01397	COG0249	[L] Mismatch repair ATPase (MutS family) 
+FGBPHIDH_01398	COG2518	[O] Protein-L-isoaspartate carboxylmethyltransferase    
+FGBPHIDH_01399	COG0607	[P] Rhodanese-related sulfurtransferase    
+FGBPHIDH_01400	ROG0479	
+FGBPHIDH_01401	COG1519	[M] 3-deoxy-D-manno-octulosonic-acid transferase    
+FGBPHIDH_01402	COG0438	[M] Glycosyltransferase     
+FGBPHIDH_01403	COG1109	[G] Phosphomannomutase     
+FGBPHIDH_01404	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_01405	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+FGBPHIDH_01406	COG0072	[J] Phenylalanyl-tRNA synthetase beta subunit  
+FGBPHIDH_01407	COG0016	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+FGBPHIDH_01408	COG0292	[J] Ribosomal protein L20   
+FGBPHIDH_01409	COG0291	[J] Ribosomal protein L35   
+FGBPHIDH_01410	COG0290	[J] Translation initiation factor 3 (IF-3) 
+FGBPHIDH_01411	COG0441	[J] Threonyl-tRNA synthetase    
+FGBPHIDH_01412	COG0778	[C] Nitroreductase     
+FGBPHIDH_01413	COG2224	[C] Isocitrate lyase    
+FGBPHIDH_01415	COG0379	[H] Quinolinate synthase    
+FGBPHIDH_01416	COG0157	[H] Nicotinate-nucleotide pyrophosphorylase    
+FGBPHIDH_01417	COG0413	[H] Ketopantoate hydroxymethyltransferase    
+FGBPHIDH_01418	COG0414	[H] Panthothenate synthetase    
+FGBPHIDH_01419	COG0240	[C] Glycerol-3-phosphate dehydrogenase    
+FGBPHIDH_01420	COG1952	[U] Preprotein translocase subunit SecB  
+FGBPHIDH_01421	COG0695	[O] Glutaredoxin and related proteins  
+FGBPHIDH_01422	COG0607	[P] Rhodanese-related sulfurtransferase    
+FGBPHIDH_01423	COG0588	[G] Phosphoglycerate mutase 1   
+FGBPHIDH_01424	COG0793	[M] Periplasmic protease    
+FGBPHIDH_01425	COG0476	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+FGBPHIDH_01426	ROG0024	
+FGBPHIDH_01427	COG0302	[H] GTP cyclohydrolase I   
+FGBPHIDH_01428	ROG4205	
+FGBPHIDH_01429	COG1502	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+FGBPHIDH_01430	COG3568	[R] Metal-dependent hydrolase    
+FGBPHIDH_01431	ROG2310	
+FGBPHIDH_01432	COG1487	[R] Predicted nucleic acid-binding protein, contains PIN
+FGBPHIDH_01433	COG1051	[F] ADP-ribose pyrophosphatase    
+FGBPHIDH_01434	ROG1259	
+FGBPHIDH_01435	ROG0610	
+FGBPHIDH_01436	COG0457	[R] FOG: TPR repeat   
+FGBPHIDH_01437	COG1344	[N] Flagellin and related hook-associated proteins 
+FGBPHIDH_01438	COG1345	[N] Flagellar capping protein   
+FGBPHIDH_01439	COG1344	[N] Flagellin and related hook-associated proteins 
+FGBPHIDH_01440	COG1516	[NUO] Flagellin-specific chaperone FliS   
+FGBPHIDH_01441	ROG0925	
+FGBPHIDH_01442	COG1677	[NU] Flagellar hook-basal body protein  
+FGBPHIDH_01443	COG1766	[NU] Flagellar biosynthesis/type III secretory pathway lipoprotein
+FGBPHIDH_01444	COG1536	[N] Flagellar motor switch protein  
+FGBPHIDH_01445	COG1317	[NU] Flagellar biosynthesis/type III secretory pathway protein
+FGBPHIDH_01446	COG1157	[NU] Flagellar biosynthesis/type III secretory pathway ATPase
+FGBPHIDH_01447	ROG6740	
+FGBPHIDH_01449	COG1580	[N] Flagellar basal body-associated protein  
+FGBPHIDH_01450	COG1868	[N] Flagellar motor switch protein  
+FGBPHIDH_01451	COG1886	[NU] Flagellar motor switch/type III secretory pathway
+FGBPHIDH_01452	COG3190	[N] Flagellar biogenesis protein   
+FGBPHIDH_01453	COG1338	[NU] Flagellar biosynthesis pathway, component FliP 
+FGBPHIDH_01454	COG1987	[NU] Flagellar biosynthesis pathway, component FliQ 
+FGBPHIDH_01455	COG1684	[NU] Flagellar biosynthesis pathway, component FliR 
+FGBPHIDH_01456	COG2197	[TK] Response regulator containing a CheY-like receiver
+FGBPHIDH_01457	COG4585	[T] Signal transduction histidine kinase  
+FGBPHIDH_01458	ROG7066	
+FGBPHIDH_01459	COG0784	[T] FOG: CheY-like receiver   
+FGBPHIDH_01460	COG0643	[NT] Chemotaxis protein histidine kinase and related
+FGBPHIDH_01461	COG1352	[NT] Methylase of chemotaxis methyl-accepting proteins 
+FGBPHIDH_01462	COG1871	[NT] Chemotaxis protein; stimulates methylation of MCP
+FGBPHIDH_01463	COG2201	[NT] Chemotaxis response regulator containing a CheY-like
+FGBPHIDH_01465	COG0115	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+FGBPHIDH_01466	COG4391	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01467	COG3307	[M] Lipid A core - O-antigen ligase
+FGBPHIDH_01468	COG0438	[M] Glycosyltransferase     
+FGBPHIDH_01469	COG3306	[M] Glycosyltransferase involved in LPS biosynthesis 
+FGBPHIDH_01470	COG2050	[Q] Uncharacterized protein, possibly involved in aromatic
+FGBPHIDH_01471	COG1024	[I] Enoyl-CoA hydratase/carnithine racemase   
+FGBPHIDH_01472	COG0183	[I] Acetyl-CoA acetyltransferase    
+FGBPHIDH_01473	COG1250	[I] 3-hydroxyacyl-CoA dehydrogenase    
+FGBPHIDH_01474	COG4731	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01475	COG1960	[I] Acyl-CoA dehydrogenases    
+FGBPHIDH_01476	COG1309	[K] Transcriptional regulator    
+FGBPHIDH_01477	COG0548	[E] Acetylglutamate kinase    
+FGBPHIDH_01479	COG0474	[P] Cation transport ATPase   
+FGBPHIDH_01480	COG0621	[J] 2-methylthioadenine synthetase    
+FGBPHIDH_01481	COG0708	[L] Exonuclease III    
+FGBPHIDH_01482	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+FGBPHIDH_01483	COG3852	[T] Signal transduction histidine kinase, nitrogen specific
+FGBPHIDH_01484	ROG0867	
+FGBPHIDH_01485	COG0174	[E] Glutamine synthetase    
+FGBPHIDH_01486	COG1058	[R] Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis
+FGBPHIDH_01487	ROG0405	
+FGBPHIDH_01488	COG1187	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+FGBPHIDH_01489	COG3216	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01490	COG3071	[H] Uncharacterized enzyme of heme biosynthesis 
+FGBPHIDH_01491	COG2959	[H] Uncharacterized enzyme of heme biosynthesis 
+FGBPHIDH_01492	COG1587	[H] Uroporphyrinogen-III synthase    
+FGBPHIDH_01493	COG0181	[H] Porphobilinogen deaminase    
+FGBPHIDH_01494	COG3279	[KT] Response regulator of the LytR/AlgR family
+FGBPHIDH_01495	COG0165	[E] Argininosuccinate lyase    
+FGBPHIDH_01496	COG0421	[E] Spermidine synthase    
+FGBPHIDH_01497	COG2863	[C] Cytochrome c553    
+FGBPHIDH_01498	COG0464	[O] ATPases of the AAA+ class 
+FGBPHIDH_01499	COG3825	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01501	COG3628	[R] Phage baseplate assembly protein W 
+FGBPHIDH_01502	COG3500	[R] Phage protein D   
+FGBPHIDH_01503	COG5004	[R] P2-like prophage tail protein X 
+FGBPHIDH_01504	COG3499	[R] Phage protein U   
+FGBPHIDH_01506	ROG3798	
+FGBPHIDH_01508	ROG3955	
+FGBPHIDH_01510	COG3498	[R] Phage tail tube protein FII 
+FGBPHIDH_01511	COG3497	[R] Phage tail sheath protein FI 
+FGBPHIDH_01514	COG3344	[L] Retron-type reverse transcriptase   
+FGBPHIDH_01515	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_01516	COG3344	[L] Retron-type reverse transcriptase   
+FGBPHIDH_01517	ROG1867	
+FGBPHIDH_01518	ROG5238	
+FGBPHIDH_01519	ROG2475	
+FGBPHIDH_01521	COG3948	[R] Phage-related baseplate assembly protein  
+FGBPHIDH_01522	COG4540	[R] Phage P2 baseplate assembly protein gpV
+FGBPHIDH_01524	COG5005	[R] Mu-like prophage protein gpG  
+FGBPHIDH_01525	COG4387	[S] Mu-like prophage protein gp36  
+FGBPHIDH_01527	ROG0373	
+FGBPHIDH_01528	ROG1290	
+FGBPHIDH_01529	ROG7970	
+FGBPHIDH_01530	COG2369	[S] Uncharacterized protein, homolog of phage Mu
+FGBPHIDH_01532	COG4383	[S] Mu-like prophage protein gp29  
+FGBPHIDH_01533	ROG3486	
+FGBPHIDH_01534	COG5362	[R] Phage-related terminase    
+FGBPHIDH_01535	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+FGBPHIDH_01537	COG3772	[R] Phage-related lysozyme (muraminidase)   
+FGBPHIDH_01538	ROG2724	
+FGBPHIDH_01540	COG0507	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+FGBPHIDH_01541	ROG1217	
+FGBPHIDH_01543	COG4197	[S] Uncharacterized protein conserved in bacteria, prophage-related
+FGBPHIDH_01544	ROG6318	
+FGBPHIDH_01550	ROG1521	
+FGBPHIDH_01551	ROG2258	
+FGBPHIDH_01552	ROG1804	
+FGBPHIDH_01553	COG1061	[KL] DNA or RNA helicases of superfamily
+FGBPHIDH_01555	COG0756	[F] dUTPase     
+FGBPHIDH_01558	ROG3550	
+FGBPHIDH_01561	COG1656	[S] Uncharacterized conserved protein   
+FGBPHIDH_01563	ROG6460	
+FGBPHIDH_01564	COG3617	[K] Prophage antirepressor    
+FGBPHIDH_01565	COG0582	[L] Integrase     
+FGBPHIDH_01567	COG1178	[P] ABC-type Fe3+ transport system, permease component
+FGBPHIDH_01568	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+FGBPHIDH_01569	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+FGBPHIDH_01570	COG2847	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01572	COG1999	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+FGBPHIDH_01573	COG0281	[C] Malic enzyme    
+FGBPHIDH_01574	COG5293	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01576	ROG5807	
+FGBPHIDH_01578	COG1989	[NOU] Type II secretory pathway, prepilin signal
+FGBPHIDH_01579	COG0237	[H] Dephospho-CoA kinase    
+FGBPHIDH_01580	COG4582	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01581	COG3024	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01582	ROG0897	
+FGBPHIDH_01583	COG1051	[F] ADP-ribose pyrophosphatase    
+FGBPHIDH_01584	COG2607	[R] Predicted ATPase (AAA+ superfamily)  
+FGBPHIDH_01585	COG1364	[E] N-acetylglutamate synthase (N-acetylornithine aminotransferase)  
+FGBPHIDH_01586	COG0653	[U] Preprotein translocase subunit SecA (ATPase, RNA
+FGBPHIDH_01587	ROG4912	
+FGBPHIDH_01588	ROG0145	
+FGBPHIDH_01589	COG1487	[R] Predicted nucleic acid-binding protein, contains PIN
+FGBPHIDH_01590	COG2133	[G] Glucose/sorbosone dehydrogenases    
+FGBPHIDH_01591	ROG0478	
+FGBPHIDH_01592	COG2865	[K] Predicted transcriptional regulator containing an HTH
+FGBPHIDH_01594	COG4637	[R] Predicted ATPase    
+FGBPHIDH_01595	COG2189	[L] Adenine specific DNA methylase Mod 
+FGBPHIDH_01596	COG0568	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+FGBPHIDH_01597	COG1895	[S] Uncharacterized conserved protein related to C-terminal
+FGBPHIDH_01598	COG1708	[R] Predicted nucleotidyltransferases    
+FGBPHIDH_01599	COG1190	[J] Lysyl-tRNA synthetase (class II)  
+FGBPHIDH_01600	COG0410	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_01601	COG0411	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_01602	COG4177	[E] ABC-type branched-chain amino acid transport system,
+FGBPHIDH_01603	COG0559	[E] Branched-chain amino acid ABC-type transport system,
+FGBPHIDH_01604	COG2256	[L] ATPase related to the helicase subunit
+FGBPHIDH_01605	COG1280	[E] Putative threonine efflux protein  
+FGBPHIDH_01606	COG2834	[M] Outer membrane lipoprotein-sorting protein  
+FGBPHIDH_01607	COG1674	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+FGBPHIDH_01608	COG0492	[O] Thioredoxin reductase    
+FGBPHIDH_01609	COG0227	[J] Ribosomal protein L28   
+FGBPHIDH_01610	COG0267	[J] Ribosomal protein L33   
+FGBPHIDH_01611	COG1398	[I] Fatty-acid desaturase    
+FGBPHIDH_01612	ROG0878	
+FGBPHIDH_01613	COG0389	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+FGBPHIDH_01614	COG0587	[L] DNA polymerase III, alpha subunit 
+FGBPHIDH_01615	COG1974	[KT] SOS-response transcriptional repressors (RecA-mediated autopeptidases) 
+FGBPHIDH_01616	COG1161	[R] Predicted GTPases    
+FGBPHIDH_01618	COG0546	[R] Predicted phosphatases    
+FGBPHIDH_01619	ROG6618	
+FGBPHIDH_01620	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+FGBPHIDH_01621	COG1530	[J] Ribonucleases G and E  
+FGBPHIDH_01623	COG2703	[P] Hemerythrin     
+FGBPHIDH_01624	COG1304	[C] L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy
+FGBPHIDH_01625	COG0737	[F] 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases 
+FGBPHIDH_01626	ROG0010	
+FGBPHIDH_01627	COG5501	[S] Predicted secreted protein   
+FGBPHIDH_01628	COG4654	[C] Cytochrome c551/c552    
+FGBPHIDH_01629	ROG6065	
+FGBPHIDH_01630	COG2041	[R] Sulfite oxidase and related enzymes 
+FGBPHIDH_01631	COG0640	[K] Predicted transcriptional regulators   
+FGBPHIDH_01632	COG4181	[Q] Predicted ABC-type transport system involved in
+FGBPHIDH_01633	COG4591	[M] ABC-type transport system, involved in lipoprotein
+FGBPHIDH_01634	COG4255	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01635	COG0608	[L] Single-stranded DNA-specific exonuclease   
+FGBPHIDH_01636	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+FGBPHIDH_01637	COG2161	[D] Antitoxin of toxin-antitoxin stability system 
+FGBPHIDH_01638	COG3744	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01639	COG1752	[R] Predicted esterase of the alpha-beta hydrolase
+FGBPHIDH_01640	COG2057	[I] Acyl CoA:acetate/3-ketoacid CoA transferase, beta subunit
+FGBPHIDH_01641	COG1788	[I] Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit
+FGBPHIDH_01642	COG4566	[T] Response regulator    
+FGBPHIDH_01643	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+FGBPHIDH_01644	COG5343	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01645	ROG8161	
+FGBPHIDH_01646	ROG0420	
+FGBPHIDH_01647	COG0780	[R] Enzyme related to GTP cyclohydrolase I
+FGBPHIDH_01648	ROG0248	
+FGBPHIDH_01649	COG3022	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01650	COG1203	[R] Predicted helicases    
+FGBPHIDH_01651	ROG5918	
+FGBPHIDH_01652	ROG1578	
+FGBPHIDH_01653	ROG0031	
+FGBPHIDH_01654	ROG0047	
+FGBPHIDH_01655	ROG0140	
+FGBPHIDH_01656	COG1518	[L] Uncharacterized protein predicted to be involved
+FGBPHIDH_01657	ROG7198	
+FGBPHIDH_01658	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_01659	ROG2610	
+FGBPHIDH_01660	COG4226	[S] Uncharacterized protein encoded in hypervariable junctions
+FGBPHIDH_01661	ROG0369	
+FGBPHIDH_01662	ROG0713	
+FGBPHIDH_01663	COG0247	[C] Fe-S oxidoreductase    
+FGBPHIDH_01664	COG1592	[C] Rubrerythrin     
+FGBPHIDH_01665	COG0525	[J] Valyl-tRNA synthetase    
+FGBPHIDH_01666	COG0425	[O] Predicted redox protein, regulator of disulfide
+FGBPHIDH_01667	COG0031	[E] Cysteine synthase    
+FGBPHIDH_01669	COG0569	[P] K+ transport systems, NAD-binding component 
+FGBPHIDH_01670	COG0543	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+FGBPHIDH_01671	COG1999	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+FGBPHIDH_01672	COG0109	[O] Polyprenyltransferase (cytochrome oxidase assembly factor) 
+FGBPHIDH_01673	COG1612	[O] Uncharacterized protein required for cytochrome oxidase
+FGBPHIDH_01674	ROG0022	
+FGBPHIDH_01675	COG3346	[S] Uncharacterized conserved protein   
+FGBPHIDH_01676	ROG0409	
+FGBPHIDH_01677	COG1845	[C] Heme/copper-type cytochrome/quinol oxidase, subunit 3 
+FGBPHIDH_01678	ROG1096	
+FGBPHIDH_01679	COG3175	[O] Cytochrome oxidase assembly factor  
+FGBPHIDH_01681	COG0843	[C] Heme/copper-type cytochrome/quinol oxidases, subunit 1 
+FGBPHIDH_01682	COG1622	[C] Heme/copper-type cytochrome/quinol oxidases, subunit 2 
+FGBPHIDH_01683	COG5488	[S] Integral membrane protein   
+FGBPHIDH_01685	COG1040	[R] Predicted amidophosphoribosyltransferases    
+FGBPHIDH_01686	COG0219	[J] Predicted rRNA methylase (SpoU class) 
+FGBPHIDH_01687	COG2030	[I] Acyl dehydratase    
+FGBPHIDH_01688	ROG0139	
+FGBPHIDH_01689	COG0741	[M] Soluble lytic murein transglycosylase and related
+FGBPHIDH_01690	COG0112	[E] Glycine/serine hydroxymethyltransferase    
+FGBPHIDH_01691	COG1327	[K] Predicted transcriptional regulator, consists of a
+FGBPHIDH_01692	COG2972	[T] Predicted signal transduction protein with a
+FGBPHIDH_01693	COG4970	[NU] Tfp pilus assembly protein FimT 
+FGBPHIDH_01694	COG4970	[NU] Tfp pilus assembly protein FimT 
+FGBPHIDH_01695	COG4967	[NU] Tfp pilus assembly protein PilV 
+FGBPHIDH_01696	COG4966	[NU] Tfp pilus assembly protein PilW 
+FGBPHIDH_01697	COG4726	[NU] Tfp pilus assembly protein PilX 
+FGBPHIDH_01698	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_01699	COG3419	[NU] Tfp pilus assembly protein, tip-associated adhesin
+FGBPHIDH_01700	COG4968	[NU] Tfp pilus assembly protein PilE 
+FGBPHIDH_01701	COG0307	[H] Riboflavin synthase alpha chain  
+FGBPHIDH_01702	COG0108	[H] 3,4-dihydroxy-2-butanone 4-phosphate synthase   
+FGBPHIDH_01703	COG0054	[H] Riboflavin synthase beta-chain   
+FGBPHIDH_01704	COG0781	[K] Transcription termination factor   
+FGBPHIDH_01705	COG0824	[R] Predicted thioesterase    
+FGBPHIDH_01706	COG0811	[U] Biopolymer transport proteins   
+FGBPHIDH_01707	COG0848	[U] Biopolymer transport protein   
+FGBPHIDH_01708	COG0810	[M] Periplasmic protein TonB, links inner and
+FGBPHIDH_01709	COG0265	[O] Trypsin-like serine proteases, typically periplasmic, contain
+FGBPHIDH_01710	ROG6528	
+FGBPHIDH_01711	COG0587	[L] DNA polymerase III, alpha subunit 
+FGBPHIDH_01712	COG0655	[R] Multimeric flavodoxin WrbA   
+FGBPHIDH_01713	COG1741	[R] Pirin-related protein    
+FGBPHIDH_01714	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_01715	COG3380	[R] Predicted NAD/FAD-dependent oxidoreductase   
+FGBPHIDH_01716	COG0008	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+FGBPHIDH_01717	COG0220	[R] Predicted S-adenosylmethionine-dependent methyltransferase   
+FGBPHIDH_01718	COG1985	[H] Pyrimidine reductase, riboflavin biosynthesis  
+FGBPHIDH_01719	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+FGBPHIDH_01720	ROG1839	
+FGBPHIDH_01721	ROG0046	
+FGBPHIDH_01722	COG1708	[R] Predicted nucleotidyltransferases    
+FGBPHIDH_01723	COG0013	[J] Alanyl-tRNA synthetase    
+FGBPHIDH_01724	COG2070	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+FGBPHIDH_01725	COG0262	[H] Dihydrofolate reductase    
+FGBPHIDH_01726	ROG0046	
+FGBPHIDH_01727	COG1708	[R] Predicted nucleotidyltransferases    
+FGBPHIDH_01728	COG3235	[S] Predicted membrane protein   
+FGBPHIDH_01729	COG0541	[U] Signal recognition particle GTPase  
+FGBPHIDH_01730	COG4137	[R] ABC-type uncharacterized transport system, permease component
+FGBPHIDH_01731	ROG1060	
+FGBPHIDH_01732	COG4191	[T] Signal transduction histidine kinase regulating C4-dicarboxylate
+FGBPHIDH_01733	COG1669	[R] Predicted nucleotidyltransferases    
+FGBPHIDH_01734	COG2361	[S] Uncharacterized conserved protein   
+FGBPHIDH_01735	COG1669	[R] Predicted nucleotidyltransferases    
+FGBPHIDH_01736	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+FGBPHIDH_01737	COG2963	[L] Transposase and inactivated derivatives  
+FGBPHIDH_01738	COG2801	[L] Transposase and inactivated derivatives  
+FGBPHIDH_01739	COG1848	[R] Predicted nucleic acid-binding protein, contains PIN
+FGBPHIDH_01740	ROG5436	
+FGBPHIDH_01741	ROG0046	
+FGBPHIDH_01742	COG1708	[R] Predicted nucleotidyltransferases    
+FGBPHIDH_01743	COG4969	[NU] Tfp pilus assembly protein, major pilin
+FGBPHIDH_01745	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+FGBPHIDH_01746	COG0438	[M] Glycosyltransferase     
+FGBPHIDH_01747	COG0438	[M] Glycosyltransferase     
+FGBPHIDH_01748	COG0677	[M] UDP-N-acetyl-D-mannosaminuronate dehydrogenase    
+FGBPHIDH_01749	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_01750	COG0500	[QR] SAM-dependent methyltransferases    
+FGBPHIDH_01751	COG0677	[M] UDP-N-acetyl-D-mannosaminuronate dehydrogenase    
+FGBPHIDH_01752	COG2801	[L] Transposase and inactivated derivatives  
+FGBPHIDH_01753	COG2963	[L] Transposase and inactivated derivatives  
+FGBPHIDH_01754	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+FGBPHIDH_01755	ROG2945	
+FGBPHIDH_01756	ROG1168	
+FGBPHIDH_01757	ROG3457	
+FGBPHIDH_01758	COG4636	[S] Uncharacterized protein conserved in cyanobacteria 
+FGBPHIDH_01759	COG0761	[IM] Penicillin tolerance protein   
+FGBPHIDH_01760	COG1047	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 2 
+FGBPHIDH_01761	COG2003	[L] DNA repair proteins   
+FGBPHIDH_01762	COG2840	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01763	COG3127	[Q] Predicted ABC-type transport system involved in
+FGBPHIDH_01764	COG0035	[F] Uracil phosphoribosyltransferase    
+FGBPHIDH_01765	COG1526	[C] Uncharacterized protein required for formate dehydrogenase
+FGBPHIDH_01766	ROG3319	
+FGBPHIDH_01767	COG2864	[C] Cytochrome b subunit of formate dehydrogenase
+FGBPHIDH_01768	ROG2703	
+FGBPHIDH_01769	COG0437	[C] Fe-S-cluster-containing hydrogenase components 1  
+FGBPHIDH_01770	COG0243	[C] Anaerobic dehydrogenases, typically selenocysteine-containing  
+FGBPHIDH_01771	COG0772	[D] Bacterial cell division membrane protein 
+FGBPHIDH_01772	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+FGBPHIDH_01773	COG4191	[T] Signal transduction histidine kinase regulating C4-dicarboxylate
+FGBPHIDH_01774	COG3381	[R] Uncharacterized component of anaerobic dehydrogenases 
+FGBPHIDH_01775	COG1145	[C] Ferredoxin     
+FGBPHIDH_01776	ROG1167	
+FGBPHIDH_01777	ROG0724	
+FGBPHIDH_01778	COG0489	[D] ATPases involved in chromosome partitioning 
+FGBPHIDH_01779	COG0143	[J] Methionyl-tRNA synthetase    
+FGBPHIDH_01780	COG0659	[P] Sulfate permease and related transporters (MFS
+FGBPHIDH_01781	ROG0681	
+FGBPHIDH_01782	COG1354	[S] Uncharacterized conserved protein   
+FGBPHIDH_01783	COG0029	[H] Aspartate oxidase    
+FGBPHIDH_01784	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_01785	COG2836	[S] Uncharacterized conserved protein   
+FGBPHIDH_01786	COG0635	[H] Coproporphyrinogen III oxidase and related Fe-S
+FGBPHIDH_01787	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+FGBPHIDH_01788	ROG0876	
+FGBPHIDH_01789	ROG7421	
+FGBPHIDH_01790	COG0348	[C] Polyferredoxin     
+FGBPHIDH_01791	COG2010	[C] Cytochrome c, mono- and diheme variants
+FGBPHIDH_01792	ROG2566	
+FGBPHIDH_01793	COG2993	[C] Cbb3-type cytochrome oxidase, cytochrome c subunit
+FGBPHIDH_01794	COG3278	[O] Cbb3-type cytochrome oxidase, subunit 1 
+FGBPHIDH_01795	ROG8408	
+FGBPHIDH_01796	COG2217	[P] Cation transport ATPase   
+FGBPHIDH_01797	COG0589	[T] Universal stress protein UspA and related
+FGBPHIDH_01798	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+FGBPHIDH_01799	COG0682	[M] Prolipoprotein diacylglyceryltransferase    
+FGBPHIDH_01801	COG0129	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+FGBPHIDH_01802	ROG7226	
+FGBPHIDH_01803	COG4654	[C] Cytochrome c551/c552    
+FGBPHIDH_01804	COG0365	[I] Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases 
+FGBPHIDH_01805	COG2862	[S] Predicted membrane protein   
+FGBPHIDH_01806	COG1951	[C] Tartrate dehydratase alpha subunit/Fumarate hydratase class
+FGBPHIDH_01807	ROG7173	
+FGBPHIDH_01808	COG3549	[R] Plasmid maintenance system killer protein 
+FGBPHIDH_01809	COG3093	[R] Plasmid maintenance system antidote protein 
+FGBPHIDH_01811	COG0144	[J] tRNA and rRNA cytosine-C5-methylases  
+FGBPHIDH_01812	COG4108	[J] Peptide chain release factor RF-3 
+FGBPHIDH_01813	COG1238	[S] Predicted membrane protein   
+FGBPHIDH_01814	COG3182	[S] Uncharacterized iron-regulated membrane protein  
+FGBPHIDH_01815	ROG5303	
+FGBPHIDH_01816	COG0299	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+FGBPHIDH_01817	COG1960	[I] Acyl-CoA dehydrogenases    
+FGBPHIDH_01818	COG1960	[I] Acyl-CoA dehydrogenases    
+FGBPHIDH_01819	COG0665	[E] Glycine/D-amino acid oxidases (deaminating)  
+FGBPHIDH_01820	COG1012	[C] NAD-dependent aldehyde dehydrogenases   
+FGBPHIDH_01821	ROG3374	
+FGBPHIDH_01822	COG1403	[V] Restriction endonuclease    
+FGBPHIDH_01823	COG0196	[H] FAD synthase    
+FGBPHIDH_01824	COG0060	[J] Isoleucyl-tRNA synthetase    
+FGBPHIDH_01825	COG0597	[MU] Lipoprotein signal peptidase   
+FGBPHIDH_01826	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_01829	ROG5306	
+FGBPHIDH_01830	COG0604	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+FGBPHIDH_01831	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_01832	COG1028	[IQR] Dehydrogenases with different specificities (related to
+FGBPHIDH_01833	ROG1777	
+FGBPHIDH_01834	COG3706	[T] Response regulator containing a CheY-like receiver
+FGBPHIDH_01835	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_01836	COG0421	[E] Spermidine synthase    
+FGBPHIDH_01837	COG3663	[L] G:T/U mismatch-specific DNA glycosylase  
+FGBPHIDH_01838	COG0084	[L] Mg-dependent DNase    
+FGBPHIDH_01839	COG3181	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01840	COG4340	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01841	COG5473	[S] Predicted integral membrane protein  
+FGBPHIDH_01842	COG0604	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+FGBPHIDH_01843	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+FGBPHIDH_01844	COG2814	[G] Arabinose efflux permease   
+FGBPHIDH_01847	COG2132	[Q] Putative multicopper oxidases   
+FGBPHIDH_01848	COG4454	[P] Uncharacterized copper-binding protein   
+FGBPHIDH_01849	COG3019	[R] Predicted metal-binding protein   
+FGBPHIDH_01850	COG2941	[H] Ubiquinone biosynthesis protein COQ7  
+FGBPHIDH_01851	COG1765	[O] Predicted redox protein, regulator of disulfide
+FGBPHIDH_01852	COG1171	[E] Threonine dehydratase    
+FGBPHIDH_01853	ROG4663	
+FGBPHIDH_01854	COG3211	[R] Predicted phosphatase    
+FGBPHIDH_01855	COG2165	[NU] Type II secretory pathway, pseudopilin PulG
+FGBPHIDH_01856	COG2165	[NU] Type II secretory pathway, pseudopilin PulG
+FGBPHIDH_01857	ROG4211	
+FGBPHIDH_01858	COG4795	[U] Type II secretory pathway, component PulJ
+FGBPHIDH_01859	COG3156	[U] Type II secretory pathway, component PulK
+FGBPHIDH_01860	ROG3268	
+FGBPHIDH_01861	ROG4628	
+FGBPHIDH_01862	ROG2899	
+FGBPHIDH_01863	COG1450	[NU] Type II secretory pathway, component PulD
+FGBPHIDH_01864	COG2804	[NU] Type II secretory pathway, ATPase PulE/Tfp
+FGBPHIDH_01865	COG1459	[NU] Type II secretory pathway, component PulF
+FGBPHIDH_01866	COG3023	[V] Negative regulator of beta-lactamase expression 
+FGBPHIDH_01867	COG0209	[F] Ribonucleotide reductase, alpha subunit  
+FGBPHIDH_01868	COG0208	[F] Ribonucleotide reductase, beta subunit  
+FGBPHIDH_01870	COG1816	[F] Adenosine deaminase    
+FGBPHIDH_01871	COG1744	[R] Uncharacterized ABC-type transport system, periplasmic component/surface
+FGBPHIDH_01872	COG1609	[K] Transcriptional regulators    
+FGBPHIDH_01873	COG3845	[R] ABC-type uncharacterized transport systems, ATPase components
+FGBPHIDH_01874	COG4603	[R] ABC-type uncharacterized transport system, permease component
+FGBPHIDH_01875	COG1079	[R] Uncharacterized ABC-type transport system, permease component
+FGBPHIDH_01876	COG0295	[F] Cytidine deaminase    
+FGBPHIDH_01877	COG0005	[F] Purine nucleoside phosphorylase   
+FGBPHIDH_01878	COG0274	[F] Deoxyribose-phosphate aldolase    
+FGBPHIDH_01879	COG0213	[F] Thymidine phosphorylase    
+FGBPHIDH_01880	COG1015	[G] Phosphopentomutase     
+FGBPHIDH_01881	ROG0195	
+FGBPHIDH_01882	COG2264	[J] Ribosomal protein L11 methylase  
+FGBPHIDH_01883	COG0439	[I] Biotin carboxylase    
+FGBPHIDH_01884	COG0511	[I] Biotin carboxyl carrier protein  
+FGBPHIDH_01885	COG2804	[NU] Type II secretory pathway, ATPase PulE/Tfp
+FGBPHIDH_01886	COG1459	[NU] Type II secretory pathway, component PulF
+FGBPHIDH_01887	COG4700	[S] Uncharacterized protein conserved in bacteria containing
+FGBPHIDH_01888	COG0457	[R] FOG: TPR repeat   
+FGBPHIDH_01891	ROG5619	
+FGBPHIDH_01892	COG2899	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01893	ROG1201	
+FGBPHIDH_01894	COG0204	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+FGBPHIDH_01895	COG0044	[F] Dihydroorotase and related cyclic amidohydrolases 
+FGBPHIDH_01896	COG0540	[F] Aspartate carbamoyltransferase, catalytic chain  
+FGBPHIDH_01897	COG2065	[F] Pyrimidine operon attenuation protein/uracil phosphoribosyltransferase 
+FGBPHIDH_01898	COG0816	[L] Predicted endonuclease involved in recombination (possible
+FGBPHIDH_01899	COG1678	[K] Putative transcriptional regulator   
+FGBPHIDH_01900	COG0415	[L] Deoxyribodipyrimidine photolyase    
+FGBPHIDH_01901	COG0643	[NT] Chemotaxis protein histidine kinase and related
+FGBPHIDH_01902	COG1773	[C] Rubredoxin     
+FGBPHIDH_01903	COG0351	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+FGBPHIDH_01904	COG0001	[H] Glutamate-1-semialdehyde aminotransferase    
+FGBPHIDH_01905	COG4242	[QP] Cyanophycinase and related exopeptidases  
+FGBPHIDH_01906	COG0826	[O] Collagenase and related proteases  
+FGBPHIDH_01907	COG1049	[C] Aconitase B    
+FGBPHIDH_01908	COG2301	[G] Citrate lyase beta subunit  
+FGBPHIDH_01909	COG0039	[C] Malate/lactate dehydrogenases    
+FGBPHIDH_01910	COG2188	[K] Transcriptional regulators    
+FGBPHIDH_01912	COG2009	[C] Succinate dehydrogenase/fumarate reductase, cytochrome b subunit
+FGBPHIDH_01913	COG2142	[C] Succinate dehydrogenase, hydrophobic anchor subunit 
+FGBPHIDH_01914	COG1053	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+FGBPHIDH_01915	COG0479	[C] Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit
+FGBPHIDH_01916	COG2938	[S] Uncharacterized conserved protein   
+FGBPHIDH_01917	COG0372	[C] Citrate synthase    
+FGBPHIDH_01918	COG0065	[E] 3-isopropylmalate dehydratase large subunit  
+FGBPHIDH_01919	COG5510	[S] Predicted small secreted protein  
+FGBPHIDH_01920	COG0066	[E] 3-isopropylmalate dehydratase small subunit  
+FGBPHIDH_01921	COG0473	[CE] Isocitrate/isopropylmalate dehydrogenase    
+FGBPHIDH_01922	COG1324	[P] Uncharacterized protein involved in tolerance to
+FGBPHIDH_01923	COG0136	[E] Aspartate-semialdehyde dehydrogenase    
+FGBPHIDH_01924	COG3170	[NU] Tfp pilus assembly protein FimV 
+FGBPHIDH_01925	COG0101	[J] Pseudouridylate synthase    
+FGBPHIDH_01926	COG0135	[E] Phosphoribosylanthranilate isomerase    
+FGBPHIDH_01927	COG0133	[E] Tryptophan synthase beta chain  
+FGBPHIDH_01928	COG0159	[E] Tryptophan synthase alpha chain  
+FGBPHIDH_01929	COG0777	[I] Acetyl-CoA carboxylase beta subunit  
+FGBPHIDH_01930	COG4127	[S] Uncharacterized conserved protein   
+FGBPHIDH_01931	ROG7930	
+FGBPHIDH_01933	COG1472	[G] Beta-glucosidase-related glycosidases    
+FGBPHIDH_01934	COG0736	[I] Phosphopantetheinyl transferase (holo-ACP synthase)  
+FGBPHIDH_01935	COG0854	[H] Pyridoxal phosphate biosynthesis protein  
+FGBPHIDH_01936	COG1381	[L] Recombinational DNA repair protein (RecF pathway)
+FGBPHIDH_01937	COG1159	[R] GTPase     
+FGBPHIDH_01938	COG0571	[K] dsRNA-specific ribonuclease    
+FGBPHIDH_01939	ROG0100	
+FGBPHIDH_01940	COG0681	[U] Signal peptidase I   
+FGBPHIDH_01941	COG0481	[M] Membrane GTPase LepA   
+FGBPHIDH_01942	COG0265	[O] Trypsin-like serine proteases, typically periplasmic, contain
+FGBPHIDH_01943	COG3026	[T] Negative regulator of sigma E activity
+FGBPHIDH_01944	ROG5593	
+FGBPHIDH_01945	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+FGBPHIDH_01946	ROG7128	
+FGBPHIDH_01947	COG0304	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+FGBPHIDH_01948	COG0236	[IQ] Acyl carrier protein   
+FGBPHIDH_01949	COG1028	[IQR] Dehydrogenases with different specificities (related to
+FGBPHIDH_01950	COG0331	[I] (acyl-carrier-protein) S-malonyltransferase    
+FGBPHIDH_01951	COG0332	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+FGBPHIDH_01952	COG0416	[I] Fatty acid/phospholipid biosynthesis enzyme  
+FGBPHIDH_01953	COG0333	[J] Ribosomal protein L32   
+FGBPHIDH_01954	COG1399	[R] Predicted metal-binding, possibly nucleic acid-binding protein
+FGBPHIDH_01955	COG0259	[H] Pyridoxamine-phosphate oxidase    
+FGBPHIDH_01956	COG2161	[D] Antitoxin of toxin-antitoxin stability system 
+FGBPHIDH_01957	COG4115	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_01958	COG0801	[H] 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     
+FGBPHIDH_01959	COG0617	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+FGBPHIDH_01960	COG0560	[E] Phosphoserine phosphatase    
+FGBPHIDH_01961	COG0593	[L] ATPase involved in DNA replication initiation
+FGBPHIDH_01962	COG0628	[R] Predicted permease    
+FGBPHIDH_01963	COG0150	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+FGBPHIDH_01964	COG2912	[S] Uncharacterized conserved protein   
+FGBPHIDH_01965	COG0728	[R] Uncharacterized membrane protein, putative virulence factor
+FGBPHIDH_01966	COG0613	[R] Predicted metal-dependent phosphoesterases (PHP family) 
+FGBPHIDH_01967	COG0009	[J] Putative translation factor (SUA5)  
+FGBPHIDH_01968	COG1994	[R] Zn-dependent proteases    
+FGBPHIDH_01969	COG0180	[J] Tryptophanyl-tRNA synthetase    
+FGBPHIDH_01971	ROG8093	
+FGBPHIDH_01975	COG5519	[L] Superfamily II helicase and inactivated derivatives
+FGBPHIDH_01977	ROG3992	
+FGBPHIDH_01980	COG0582	[L] Integrase     
+FGBPHIDH_01982	COG2969	[R] Stringent starvation protein B  
+FGBPHIDH_01983	COG0625	[O] Glutathione S-transferase    
+FGBPHIDH_01984	COG2857	[C] Cytochrome c1    
+FGBPHIDH_01985	COG1290	[C] Cytochrome b subunit of the bc
+FGBPHIDH_01986	COG0723	[C] Rieske Fe-S protein   
+FGBPHIDH_01987	COG1995	[H] Pyridoxal phosphate biosynthesis protein  
+FGBPHIDH_01988	COG0327	[S] Uncharacterized conserved protein   
+FGBPHIDH_01990	COG0265	[O] Trypsin-like serine proteases, typically periplasmic, contain
+FGBPHIDH_01991	COG0805	[U] Sec-independent protein secretion pathway component TatC
+FGBPHIDH_01992	COG1826	[U] Sec-independent protein secretion pathway components 
+FGBPHIDH_01993	COG1826	[U] Sec-independent protein secretion pathway components 
+FGBPHIDH_01994	COG0537	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+FGBPHIDH_01995	COG3671	[S] Predicted membrane protein   
+FGBPHIDH_01996	COG0140	[E] Phosphoribosyl-ATP pyrophosphohydrolase    
+FGBPHIDH_01997	COG0139	[E] Phosphoribosyl-AMP cyclohydrolase    
+FGBPHIDH_01998	COG0107	[E] Imidazoleglycerol-phosphate synthase    
+FGBPHIDH_01999	COG0106	[E] Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase 
+FGBPHIDH_02000	COG0118	[E] Glutamine amidotransferase    
+FGBPHIDH_02001	COG0131	[E] Imidazoleglycerol-phosphate dehydratase    
+FGBPHIDH_02002	COG0079	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+FGBPHIDH_02003	COG0141	[E] Histidinol dehydrogenase    
+FGBPHIDH_02004	COG0040	[E] ATP phosphoribosyltransferase    
+FGBPHIDH_02005	COG0766	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+FGBPHIDH_02006	COG5007	[K] Predicted transcriptional regulator, BolA superfamily 
+FGBPHIDH_02007	COG0842	[V] ABC-type multidrug transport system, permease component
+FGBPHIDH_02008	COG1131	[V] ABC-type multidrug transport system, ATPase component
+FGBPHIDH_02009	ROG7698	
+FGBPHIDH_02010	COG2854	[Q] ABC-type transport system involved in resistance
+FGBPHIDH_02011	COG2853	[M] Surface lipoprotein    
+FGBPHIDH_02012	COG1463	[Q] ABC-type transport system involved in resistance
+FGBPHIDH_02013	COG0767	[Q] ABC-type transport system involved in resistance
+FGBPHIDH_02014	COG1127	[Q] ABC-type transport system involved in resistance
+FGBPHIDH_02015	COG0493	[ER] NADPH-dependent glutamate synthase beta chain and
+FGBPHIDH_02016	COG0069	[E] Glutamate synthase domain 2  
+FGBPHIDH_02017	ROG1238	
+FGBPHIDH_02018	ROG2472	
+FGBPHIDH_02019	COG0232	[F] dGTP triphosphohydrolase    
+FGBPHIDH_02020	COG0337	[E] 3-dehydroquinate synthetase    
+FGBPHIDH_02021	COG0703	[E] Shikimate kinase    
+FGBPHIDH_02022	ROG1599	
+FGBPHIDH_02023	COG4796	[U] Type II secretory pathway, component HofQ
+FGBPHIDH_02024	COG3168	[NU] Tfp pilus assembly protein PilP 
+FGBPHIDH_02025	COG3167	[NU] Tfp pilus assembly protein PilO 
+FGBPHIDH_02026	COG3166	[NU] Tfp pilus assembly protein PilN 
+FGBPHIDH_02027	COG4972	[NU] Tfp pilus assembly protein, ATPase PilM
+FGBPHIDH_02028	COG5009	[M] Membrane carboxypeptidase/penicillin-binding protein   
+FGBPHIDH_02029	COG1965	[P] Protein implicated in iron transport, frataxin
+FGBPHIDH_02030	COG0019	[E] Diaminopimelate decarboxylase    
+FGBPHIDH_02031	COG2717	[S] Predicted membrane protein   
+FGBPHIDH_02032	COG2041	[R] Sulfite oxidase and related enzymes 
+FGBPHIDH_02033	COG0755	[O] ABC-type transport system involved in cytochrome
+FGBPHIDH_02034	COG1333	[O] ResB protein required for cytochrome c
+FGBPHIDH_02035	COG2863	[C] Cytochrome c553    
+FGBPHIDH_02036	COG0218	[R] Predicted GTPase    
+FGBPHIDH_02037	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+FGBPHIDH_02038	COG1560	[M] Lauroyl/myristoyl acyltransferase    
+FGBPHIDH_02039	COG0192	[H] S-adenosylmethionine synthetase    
+FGBPHIDH_02040	COG0457	[R] FOG: TPR repeat   
+FGBPHIDH_02042	COG0500	[QR] SAM-dependent methyltransferases    
+FGBPHIDH_02043	COG1216	[R] Predicted glycosyltransferases    
+FGBPHIDH_02045	COG1835	[I] Predicted acyltransferases    
+FGBPHIDH_02047	COG1216	[R] Predicted glycosyltransferases    
+FGBPHIDH_02048	COG3914	[O] Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+FGBPHIDH_02049	COG1134	[GM] ABC-type polysaccharide/polyol phosphate transport system, ATPase
+FGBPHIDH_02050	COG1682	[GM] ABC-type polysaccharide/polyol phosphate export systems, permease
+FGBPHIDH_02051	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+FGBPHIDH_02053	ROG1906	
+FGBPHIDH_02054	COG1450	[NU] Type II secretory pathway, component PulD
+FGBPHIDH_02055	ROG3605	
+FGBPHIDH_02056	ROG3384	
+FGBPHIDH_02057	COG3166	[NU] Tfp pilus assembly protein PilN 
+FGBPHIDH_02058	ROG2332	
+FGBPHIDH_02059	COG4795	[U] Type II secretory pathway, component PulJ
+FGBPHIDH_02060	ROG4211	
+FGBPHIDH_02061	COG2165	[NU] Type II secretory pathway, pseudopilin PulG
+FGBPHIDH_02062	COG2165	[NU] Type II secretory pathway, pseudopilin PulG
+FGBPHIDH_02063	COG1459	[NU] Type II secretory pathway, component PulF
+FGBPHIDH_02064	COG2804	[NU] Type II secretory pathway, ATPase PulE/Tfp
+FGBPHIDH_02065	COG1898	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+FGBPHIDH_02066	COG1209	[M] dTDP-glucose pyrophosphorylase    
+FGBPHIDH_02067	ROG5679	
+FGBPHIDH_02068	ROG5557	
+FGBPHIDH_02069	COG1091	[M] dTDP-4-dehydrorhamnose reductase    
+FGBPHIDH_02070	ROG1961	
+FGBPHIDH_02071	COG1088	[M] dTDP-D-glucose 4,6-dehydratase    
+FGBPHIDH_02072	COG1555	[L] DNA uptake protein and related DNA-binding
+FGBPHIDH_02073	COG4281	[I] Acyl-CoA-binding protein    
+FGBPHIDH_02074	COG0243	[C] Anaerobic dehydrogenases, typically selenocysteine-containing  
+FGBPHIDH_02075	COG1473	[R] Metal-dependent amidase/aminoacylase/carboxypeptidase    
+FGBPHIDH_02076	COG1521	[K] Putative transcriptional regulator, homolog of Bvg
+FGBPHIDH_02077	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+FGBPHIDH_02078	COG1884	[I] Methylmalonyl-CoA mutase, N-terminal domain/subunit  
+FGBPHIDH_02079	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_02080	COG0212	[H] 5-formyltetrahydrofolate cyclo-ligase    
+FGBPHIDH_02081	COG0741	[M] Soluble lytic murein transglycosylase and related
+FGBPHIDH_02082	COG0702	[MG] Predicted nucleoside-diphosphate-sugar epimerases   
+FGBPHIDH_02083	COG1937	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02084	COG0617	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+FGBPHIDH_02085	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+FGBPHIDH_02086	ROG4004	
+FGBPHIDH_02087	COG1565	[S] Uncharacterized conserved protein   
+FGBPHIDH_02088	COG1028	[IQR] Dehydrogenases with different specificities (related to
+FGBPHIDH_02089	COG1539	[H] Dihydroneopterin aldolase    
+FGBPHIDH_02090	COG0037	[D] Predicted ATPase of the PP-loop superfamily
+FGBPHIDH_02091	ROG1433	
+FGBPHIDH_02092	COG0835	[NT] Chemotaxis signal transduction protein  
+FGBPHIDH_02093	COG0406	[G] Fructose-2,6-bisphosphatase     
+FGBPHIDH_02094	COG2255	[L] Holliday junction resolvasome, helicase subunit 
+FGBPHIDH_02095	COG0632	[L] Holliday junction resolvasome, DNA-binding subunit 
+FGBPHIDH_02096	COG1702	[T] Phosphate starvation-inducible protein PhoH, predicted ATPase
+FGBPHIDH_02097	COG0319	[R] Predicted metal-dependent hydrolase   
+FGBPHIDH_02098	COG0053	[P] Predicted Co/Zn/Cd cation transporters  
+FGBPHIDH_02099	COG0162	[J] Tyrosyl-tRNA synthetase    
+FGBPHIDH_02100	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+FGBPHIDH_02101	COG2377	[O] Predicted molecular chaperone distantly related to
+FGBPHIDH_02102	COG0316	[S] Uncharacterized conserved protein   
+FGBPHIDH_02103	COG0103	[J] Ribosomal protein S9   
+FGBPHIDH_02104	COG0102	[J] Ribosomal protein L13   
+FGBPHIDH_02105	COG2961	[R] Protein involved in catabolism of external
+FGBPHIDH_02106	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_02107	COG2873	[E] O-acetylhomoserine sulfhydrylase    
+FGBPHIDH_02108	COG5464	[S] Uncharacterized conserved protein   
+FGBPHIDH_02109	COG0685	[E] 5,10-methylenetetrahydrofolate reductase    
+FGBPHIDH_02110	COG1189	[J] Predicted rRNA methylase   
+FGBPHIDH_02111	COG0499	[H] S-adenosylhomocysteine hydrolase    
+FGBPHIDH_02112	COG0142	[H] Geranylgeranyl pyrophosphate synthase   
+FGBPHIDH_02114	COG4302	[E] Ethanolamine ammonia-lyase, small subunit  
+FGBPHIDH_02115	COG4303	[E] Ethanolamine ammonia-lyase, large subunit  
+FGBPHIDH_02116	COG0531	[E] Amino acid transporters   
+FGBPHIDH_02117	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+FGBPHIDH_02118	COG2206	[T] HD-GYP domain    
+FGBPHIDH_02119	COG2206	[T] HD-GYP domain    
+FGBPHIDH_02120	COG2200	[T] FOG: EAL domain   
+FGBPHIDH_02121	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+FGBPHIDH_02122	ROG2787	
+FGBPHIDH_02123	COG0773	[M] UDP-N-acetylmuramate-alanine ligase    
+FGBPHIDH_02124	ROG3750	
+FGBPHIDH_02125	COG0722	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+FGBPHIDH_02126	COG0312	[R] Predicted Zn-dependent proteases and their inactivated
+FGBPHIDH_02127	COG0772	[D] Bacterial cell division membrane protein 
+FGBPHIDH_02128	COG3150	[R] Predicted esterase    
+FGBPHIDH_02129	COG1066	[O] Predicted ATP-dependent serine protease  
+FGBPHIDH_02130	COG1738	[S] Uncharacterized conserved protein   
+FGBPHIDH_02131	COG4776	[K] Exoribonuclease II    
+FGBPHIDH_02132	COG0810	[M] Periplasmic protein TonB, links inner and
+FGBPHIDH_02133	COG0744	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+FGBPHIDH_02134	COG0817	[L] Holliday junction resolvasome, endonuclease subunit 
+FGBPHIDH_02135	ROG6206	
+FGBPHIDH_02136	COG0774	[M] UDP-3-O-acyl-N-acetylglucosamine deacetylase    
+FGBPHIDH_02137	COG0206	[D] Cell division GTPase   
+FGBPHIDH_02138	COG0849	[D] Actin-like ATPase involved in cell division
+FGBPHIDH_02139	COG1589	[M] Cell division septal protein  
+FGBPHIDH_02140	COG1181	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+FGBPHIDH_02141	COG0773	[M] UDP-N-acetylmuramate-alanine ligase    
+FGBPHIDH_02142	COG0707	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+FGBPHIDH_02143	COG0772	[D] Bacterial cell division membrane protein 
+FGBPHIDH_02144	COG0771	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+FGBPHIDH_02145	COG0472	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+FGBPHIDH_02146	COG0770	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+FGBPHIDH_02147	COG0769	[M] UDP-N-acetylmuramyl tripeptide synthase   
+FGBPHIDH_02148	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+FGBPHIDH_02149	COG3116	[D] Cell division protein   
+FGBPHIDH_02150	COG0275	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+FGBPHIDH_02151	COG2001	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02152	COG1220	[O] ATP-dependent protease HslVU (ClpYQ), ATPase subunit
+FGBPHIDH_02153	COG5405	[O] ATP-dependent protease HslVU (ClpYQ), peptidase subunit
+FGBPHIDH_02154	ROG1372	
+FGBPHIDH_02155	COG1734	[T] DnaK suppressor protein   
+FGBPHIDH_02156	COG0523	[R] Putative GTPases (G3E family)  
+FGBPHIDH_02157	COG1092	[R] Predicted SAM-dependent methyltransferases   
+FGBPHIDH_02158	COG1416	[S] Uncharacterized conserved protein   
+FGBPHIDH_02159	COG4973	[L] Site-specific recombinase XerC   
+FGBPHIDH_02160	COG3159	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02161	COG0253	[E] Diaminopimelate epimerase    
+FGBPHIDH_02162	COG2885	[M] Outer membrane protein and related peptidoglycan-associated
+FGBPHIDH_02163	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+FGBPHIDH_02164	ROG1787	
+FGBPHIDH_02166	COG2509	[R] Uncharacterized FAD-dependent dehydrogenases   
+FGBPHIDH_02167	COG0501	[O] Zn-dependent protease with chaperone function 
+FGBPHIDH_02168	COG3181	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02169	COG0745	[TK] Response regulators consisting of a CheY-like
+FGBPHIDH_02170	COG0642	[T] Signal transduction histidine kinase  
+FGBPHIDH_02171	COG3181	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02172	ROG1874	
+FGBPHIDH_02173	COG3333	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02174	COG0418	[F] Dihydroorotase     
+FGBPHIDH_02175	COG1126	[E] ABC-type polar amino acid transport system,
+FGBPHIDH_02176	COG0765	[E] ABC-type amino acid transport system, permease
+FGBPHIDH_02177	COG0765	[E] ABC-type amino acid transport system, permease
+FGBPHIDH_02178	COG0834	[ET] ABC-type amino acid transport/signal transduction systems,
+FGBPHIDH_02179	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_02180	COG5265	[O] ABC-type transport system involved in Fe-S
+FGBPHIDH_02181	COG1607	[I] Acyl-CoA hydrolase    
+FGBPHIDH_02183	COG4784	[R] Putative Zn-dependent protease   
+FGBPHIDH_02184	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+FGBPHIDH_02185	COG1028	[IQR] Dehydrogenases with different specificities (related to
+FGBPHIDH_02186	COG1522	[K] Transcriptional regulators    
+FGBPHIDH_02187	COG1669	[R] Predicted nucleotidyltransferases    
+FGBPHIDH_02188	COG2361	[S] Uncharacterized conserved protein   
+FGBPHIDH_02189	COG3185	[ER] 4-hydroxyphenylpyruvate dioxygenase and related hemolysins 
+FGBPHIDH_02190	COG2154	[H] Pterin-4a-carbinolamine dehydratase    
+FGBPHIDH_02191	COG3186	[E] Phenylalanine-4-hydroxylase     
+FGBPHIDH_02192	ROG1301	
+FGBPHIDH_02193	COG3203	[M] Outer membrane protein (porin)  
+FGBPHIDH_02194	COG3203	[M] Outer membrane protein (porin)  
+FGBPHIDH_02195	COG3203	[M] Outer membrane protein (porin)  
+FGBPHIDH_02196	COG3047	[M] Outer membrane protein W  
+FGBPHIDH_02197	ROG1168	
+FGBPHIDH_02198	COG1686	[M] D-alanyl-D-alanine carboxypeptidase    
+FGBPHIDH_02199	COG2945	[R] Predicted hydrolase of the alpha/beta superfamily
+FGBPHIDH_02200	COG3411	[C] Ferredoxin     
+FGBPHIDH_02201	COG5652	[S] Predicted integral membrane protein  
+FGBPHIDH_02202	COG1981	[S] Predicted membrane protein   
+FGBPHIDH_02203	COG0277	[C] FAD/FMN-containing dehydrogenases    
+FGBPHIDH_02204	COG0247	[C] Fe-S oxidoreductase    
+FGBPHIDH_02206	COG3181	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02208	COG0787	[M] Alanine racemase    
+FGBPHIDH_02209	ROG1301	
+FGBPHIDH_02210	ROG5354	
+FGBPHIDH_02211	COG4640	[S] Predicted membrane protein   
+FGBPHIDH_02212	ROG6250	
+FGBPHIDH_02213	COG1566	[V] Multidrug resistance efflux pump  
+FGBPHIDH_02214	COG3696	[P] Putative silver efflux pump  
+FGBPHIDH_02215	ROG1723	
+FGBPHIDH_02216	COG1275	[P] Tellurite resistance protein and related permeases
+FGBPHIDH_02217	COG0730	[R] Predicted permeases    
+FGBPHIDH_02218	COG0643	[NT] Chemotaxis protein histidine kinase and related
+FGBPHIDH_02219	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_02221	COG0784	[T] FOG: CheY-like receiver   
+FGBPHIDH_02222	COG0784	[T] FOG: CheY-like receiver   
+FGBPHIDH_02223	COG0179	[Q] 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+FGBPHIDH_02224	COG0014	[E] Gamma-glutamyl phosphate reductase   
+FGBPHIDH_02225	COG0591	[ER] Na+/proline symporter    
+FGBPHIDH_02226	COG0348	[C] Polyferredoxin     
+FGBPHIDH_02228	COG3470	[P] Uncharacterized protein probably involved in high-affinity
+FGBPHIDH_02229	COG2193	[P] Bacterioferritin (cytochrome b1)   
+FGBPHIDH_02230	ROG2610	
+FGBPHIDH_02231	COG2193	[P] Bacterioferritin (cytochrome b1)   
+FGBPHIDH_02233	COG0482	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+FGBPHIDH_02234	COG0659	[P] Sulfate permease and related transporters (MFS
+FGBPHIDH_02235	COG2346	[R] Truncated hemoglobins    
+FGBPHIDH_02236	COG0610	[V] Type I site-specific restriction-modification system, R
+FGBPHIDH_02237	ROG2090	
+FGBPHIDH_02238	ROG2610	
+FGBPHIDH_02239	COG3943	[R] Virulence protein    
+FGBPHIDH_02240	COG0732	[V] Restriction endonuclease S subunits  
+FGBPHIDH_02241	ROG0046	
+FGBPHIDH_02242	COG3177	[S] Uncharacterized conserved protein   
+FGBPHIDH_02243	ROG7902	
+FGBPHIDH_02244	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+FGBPHIDH_02245	COG0629	[L] Single-stranded DNA-binding protein   
+FGBPHIDH_02246	COG0038	[P] Chloride channel protein EriC  
+FGBPHIDH_02247	ROG2472	
+FGBPHIDH_02248	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_02249	COG0036	[G] Pentose-5-phosphate-3-epimerase     
+FGBPHIDH_02250	COG4389	[L] Site-specific recombinase    
+FGBPHIDH_02251	COG0611	[H] Thiamine monophosphate kinase   
+FGBPHIDH_02252	COG1051	[F] ADP-ribose pyrophosphatase    
+FGBPHIDH_02253	COG1267	[I] Phosphatidylglycerophosphatase A and related proteins 
+FGBPHIDH_02254	COG1546	[R] Uncharacterized protein (competence- and mitomycin-induced) 
+FGBPHIDH_02255	COG3318	[R] Predicted metal-binding protein related to the
+FGBPHIDH_02256	COG1067	[O] Predicted ATP-dependent protease   
+FGBPHIDH_02257	COG3344	[L] Retron-type reverse transcriptase   
+FGBPHIDH_02258	COG1343	[L] Uncharacterized protein predicted to be involved
+FGBPHIDH_02259	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_02261	ROG7688	
+FGBPHIDH_02262	COG3240	[IR] Phospholipase/lecithinase/hemolysin     
+FGBPHIDH_02263	COG0006	[E] Xaa-Pro aminopeptidase    
+FGBPHIDH_02264	COG1208	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+FGBPHIDH_02266	COG1274	[C] Phosphoenolpyruvate carboxykinase (GTP)   
+FGBPHIDH_02268	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_02269	ROG0146	
+FGBPHIDH_02270	COG2206	[T] HD-GYP domain    
+FGBPHIDH_02271	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_02272	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_02273	COG0665	[E] Glycine/D-amino acid oxidases (deaminating)  
+FGBPHIDH_02274	COG1853	[R] Conserved protein/domain typically associated with flavoprotein
+FGBPHIDH_02275	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_02276	COG1639	[T] Predicted signal transduction protein  
+FGBPHIDH_02277	ROG1811	
+FGBPHIDH_02278	COG2233	[F] Xanthine/uracil permeases    
+FGBPHIDH_02279	COG4786	[N] Flagellar basal body rod protein 
+FGBPHIDH_02280	COG2303	[E] Choline dehydrogenase and related flavoproteins 
+FGBPHIDH_02281	COG1012	[C] NAD-dependent aldehyde dehydrogenases   
+FGBPHIDH_02282	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_02284	ROG3362	
+FGBPHIDH_02285	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+FGBPHIDH_02286	COG2027	[M] D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 4) 
+FGBPHIDH_02287	COG4924	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02288	COG4913	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02289	ROG1817	
+FGBPHIDH_02290	ROG0431	
+FGBPHIDH_02291	COG3041	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02292	COG3077	[L] DNA-damage-inducible protein J   
+FGBPHIDH_02293	COG1214	[O] Inactive homolog of metal-dependent proteases, putative
+FGBPHIDH_02294	COG0456	[R] Acetyltransferases     
+FGBPHIDH_02295	COG1573	[L] Uracil-DNA glycosylase    
+FGBPHIDH_02296	COG4608	[E] ABC-type oligopeptide transport system, ATPase component
+FGBPHIDH_02297	COG0444	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+FGBPHIDH_02298	COG1173	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+FGBPHIDH_02299	COG0601	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+FGBPHIDH_02300	COG0747	[E] ABC-type dipeptide transport system, periplasmic component
+FGBPHIDH_02301	COG0205	[G] 6-phosphofructokinase     
+FGBPHIDH_02302	COG2821	[M] Membrane-bound lytic murein transglycosylase  
+FGBPHIDH_02303	COG0388	[R] Predicted amidohydrolase    
+FGBPHIDH_02304	COG3164	[S] Predicted membrane protein   
+FGBPHIDH_02305	COG1391	[OT] Glutamine synthetase adenylyltransferase   
+FGBPHIDH_02306	COG0386	[O] Glutathione peroxidase    
+FGBPHIDH_02307	COG0791	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+FGBPHIDH_02308	COG1466	[L] DNA polymerase III, delta subunit 
+FGBPHIDH_02309	COG0010	[E] Arginase/agmatinase/formimionoglutamate hydrolase, arginase family  
+FGBPHIDH_02310	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_02311	COG2980	[M] Rare lipoprotein B   
+FGBPHIDH_02312	COG3547	[L] Transposase and inactivated derivatives  
+FGBPHIDH_02313	COG0495	[J] Leucyl-tRNA synthetase    
+FGBPHIDH_02314	COG0412	[Q] Dienelactone hydrolase and related enzymes 
+FGBPHIDH_02315	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_02316	COG0289	[E] Dihydrodipicolinate reductase    
+FGBPHIDH_02317	COG2913	[J] Small protein A (tmRNA-binding)  
+FGBPHIDH_02318	COG0735	[P] Fe2+/Zn2+ uptake regulation proteins  
+FGBPHIDH_02319	COG1493	[T] Serine kinase of the HPr protein,
+FGBPHIDH_02320	COG1762	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+FGBPHIDH_02321	COG1544	[J] Ribosome-associated protein Y (PSrp-1)  
+FGBPHIDH_02322	COG2128	[S] Uncharacterized conserved protein   
+FGBPHIDH_02323	COG5572	[S] Predicted integral membrane protein  
+FGBPHIDH_02324	COG3220	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02325	ROG0105	
+FGBPHIDH_02326	COG2259	[S] Predicted membrane protein   
+FGBPHIDH_02327	ROG2431	
+FGBPHIDH_02328	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+FGBPHIDH_02329	COG2206	[T] HD-GYP domain    
+FGBPHIDH_02330	COG3547	[L] Transposase and inactivated derivatives  
+FGBPHIDH_02331	COG2206	[T] HD-GYP domain    
+FGBPHIDH_02332	COG1252	[C] NADH dehydrogenase, FAD-containing subunit  
+FGBPHIDH_02333	COG0005	[F] Purine nucleoside phosphorylase   
+FGBPHIDH_02334	COG1752	[R] Predicted esterase of the alpha-beta hydrolase
+FGBPHIDH_02335	COG0598	[P] Mg2+ and Co2+ transporters  
+FGBPHIDH_02336	COG0554	[C] Glycerol kinase    
+FGBPHIDH_02337	COG0775	[F] Nucleoside phosphorylase    
+FGBPHIDH_02338	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+FGBPHIDH_02341	ROG8287	
+FGBPHIDH_02342	COG1282	[C] NAD/NADP transhydrogenase beta subunit  
+FGBPHIDH_02343	COG3288	[C] NAD/NADP transhydrogenase alpha subunit  
+FGBPHIDH_02344	COG0853	[H] Aspartate 1-decarboxylase    
+FGBPHIDH_02345	COG3288	[C] NAD/NADP transhydrogenase alpha subunit  
+FGBPHIDH_02346	COG1051	[F] ADP-ribose pyrophosphatase    
+FGBPHIDH_02347	COG0647	[G] Predicted sugar phosphatases of the HAD
+FGBPHIDH_02348	COG1385	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02349	COG3178	[R] Predicted phosphotransferase related to Ser/Thr protein
+FGBPHIDH_02350	COG1452	[M] Organic solvent tolerance protein OstA 
+FGBPHIDH_02351	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+FGBPHIDH_02352	COG0030	[J] Dimethyladenosine transferase (rRNA methylation)  
+FGBPHIDH_02353	ROG0527	
+FGBPHIDH_02354	COG4290	[F] Guanyl-specific ribonuclease Sa   
+FGBPHIDH_02355	COG0281	[C] Malic enzyme    
+FGBPHIDH_02356	COG1593	[G] TRAP-type C4-dicarboxylate transport system, large permease
+FGBPHIDH_02357	COG3090	[G] TRAP-type C4-dicarboxylate transport system, small permease
+FGBPHIDH_02358	COG1638	[G] TRAP-type C4-dicarboxylate transport system, periplasmic component
+FGBPHIDH_02359	COG1638	[G] TRAP-type C4-dicarboxylate transport system, periplasmic component
+FGBPHIDH_02360	COG2202	[T] FOG: PAS/PAC domain   
+FGBPHIDH_02361	COG4566	[T] Response regulator    
+FGBPHIDH_02362	COG3706	[T] Response regulator containing a CheY-like receiver
+FGBPHIDH_02363	COG3762	[S] Predicted membrane protein   
+FGBPHIDH_02364	COG1512	[R] Beta-propeller domains of methanol dehydrogenase type
+FGBPHIDH_02365	COG1704	[S] Uncharacterized conserved protein   
+FGBPHIDH_02366	COG1540	[R] Uncharacterized proteins, homologs of lactam utilization
+FGBPHIDH_02367	COG1984	[E] Allophanate hydrolase subunit 2  
+FGBPHIDH_02368	COG2049	[E] Allophanate hydrolase subunit 1  
+FGBPHIDH_02369	COG1593	[G] TRAP-type C4-dicarboxylate transport system, large permease
+FGBPHIDH_02370	ROG1342	
+FGBPHIDH_02371	COG4663	[Q] TRAP-type mannitol/chloroaromatic compound transport system, periplasmic
+FGBPHIDH_02372	COG5631	[K] Predicted transcription regulator, contains HTH domain
+FGBPHIDH_02373	COG1510	[K] Predicted transcriptional regulators   
+FGBPHIDH_02374	COG1271	[C] Cytochrome bd-type quinol oxidase, subunit 1
+FGBPHIDH_02375	COG1294	[C] Cytochrome bd-type quinol oxidase, subunit 2
+FGBPHIDH_02376	COG3205	[S] Predicted membrane protein   
+FGBPHIDH_02377	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+FGBPHIDH_02378	COG4591	[M] ABC-type transport system, involved in lipoprotein
+FGBPHIDH_02379	COG4591	[M] ABC-type transport system, involved in lipoprotein
+FGBPHIDH_02380	COG1566	[V] Multidrug resistance efflux pump  
+FGBPHIDH_02381	COG1804	[C] Predicted acyl-CoA transferases/carnitine dehydratase  
+FGBPHIDH_02382	COG0469	[G] Pyruvate kinase    
+FGBPHIDH_02383	COG2905	[T] Predicted signal-transduction protein containing cAMP-binding and
+FGBPHIDH_02385	COG0457	[R] FOG: TPR repeat   
+FGBPHIDH_02386	COG4327	[S] Predicted membrane protein   
+FGBPHIDH_02387	COG4147	[R] Predicted symporter    
+FGBPHIDH_02388	COG2352	[C] Phosphoenolpyruvate carboxylase    
+FGBPHIDH_02389	COG0191	[G] Fructose/tagatose bisphosphate aldolase   
+FGBPHIDH_02390	COG0152	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+FGBPHIDH_02391	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+FGBPHIDH_02392	COG0745	[TK] Response regulators consisting of a CheY-like
+FGBPHIDH_02393	ROG5298	
+FGBPHIDH_02394	COG0633	[C] Ferredoxin     
+FGBPHIDH_02395	COG3118	[O] Thioredoxin domain-containing protein   
+FGBPHIDH_02396	COG0041	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+FGBPHIDH_02397	COG0026	[F] Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)  
+FGBPHIDH_02398	COG0009	[J] Putative translation factor (SUA5)  
+FGBPHIDH_02399	COG4095	[S] Uncharacterized conserved protein   
+FGBPHIDH_02400	COG0851	[D] Septum formation topological specificity factor 
+FGBPHIDH_02401	COG2894	[D] Septum formation inhibitor-activating ATPase  
+FGBPHIDH_02402	COG0850	[D] Septum formation inhibitor   
+FGBPHIDH_02403	COG2608	[P] Copper chaperone    
+FGBPHIDH_02404	COG2217	[P] Cation transport ATPase   
+FGBPHIDH_02405	COG3945	[S] Uncharacterized conserved protein   
+FGBPHIDH_02406	COG0001	[H] Glutamate-1-semialdehyde aminotransferase    
+FGBPHIDH_02407	COG2211	[G] Na+/melibiose symporter and related transporters 
+FGBPHIDH_02408	ROG1219	
+FGBPHIDH_02409	COG0665	[E] Glycine/D-amino acid oxidases (deaminating)  
+FGBPHIDH_02410	COG1167	[KE] Transcriptional regulators containing a DNA-binding HTH
+FGBPHIDH_02411	COG2071	[R] Predicted glutamine amidotransferases   
+FGBPHIDH_02412	COG0174	[E] Glutamine synthetase    
+FGBPHIDH_02413	COG0161	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+FGBPHIDH_02414	COG0687	[E] Spermidine/putrescine-binding periplasmic protein   
+FGBPHIDH_02415	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+FGBPHIDH_02416	COG1176	[E] ABC-type spermidine/putrescine transport system, permease component
+FGBPHIDH_02417	COG1177	[E] ABC-type spermidine/putrescine transport system, permease component
+FGBPHIDH_02418	ROG4205	
+FGBPHIDH_02419	COG1012	[C] NAD-dependent aldehyde dehydrogenases   
+FGBPHIDH_02420	COG1902	[C] NADH:flavin oxidoreductases, Old Yellow Enzyme family
+FGBPHIDH_02421	COG1560	[M] Lauroyl/myristoyl acyltransferase    
+FGBPHIDH_02422	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+FGBPHIDH_02423	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_02424	COG2199	[T] FOG: GGDEF domain   
+FGBPHIDH_02425	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_02426	COG2200	[T] FOG: EAL domain   
+FGBPHIDH_02427	COG2199	[T] FOG: GGDEF domain   
+FGBPHIDH_02428	ROG0023	
+FGBPHIDH_02429	COG0727	[R] Predicted Fe-S-cluster oxidoreductase   
+FGBPHIDH_02430	ROG3457	
+FGBPHIDH_02431	COG0445	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+FGBPHIDH_02432	COG0357	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+FGBPHIDH_02433	COG1280	[E] Putative threonine efflux protein  
+FGBPHIDH_02434	COG1192	[D] ATPases involved in chromosome partitioning 
+FGBPHIDH_02435	COG1475	[K] Predicted transcriptional regulators   
+FGBPHIDH_02436	COG0500	[QR] SAM-dependent methyltransferases    
+FGBPHIDH_02437	COG2200	[T] FOG: EAL domain   
+FGBPHIDH_02438	COG0277	[C] FAD/FMN-containing dehydrogenases    
+FGBPHIDH_02439	COG2096	[S] Uncharacterized conserved protein   
+FGBPHIDH_02440	ROG0481	
+FGBPHIDH_02441	ROG0388	
+FGBPHIDH_02442	COG3327	[K] Phenylacetic acid-responsive transcriptional repressor  
+FGBPHIDH_02443	COG2050	[Q] Uncharacterized protein, possibly involved in aromatic
+FGBPHIDH_02444	COG1541	[H] Coenzyme F390 synthetase   
+FGBPHIDH_02445	COG3396	[S] Uncharacterized conserved protein   
+FGBPHIDH_02446	COG3460	[Q] Uncharacterized enzyme of phenylacetate metabolism 
+FGBPHIDH_02447	COG3396	[S] Uncharacterized conserved protein   
+FGBPHIDH_02448	COG2151	[R] Predicted metal-sulfur cluster biosynthetic enzyme 
+FGBPHIDH_02449	COG1018	[C] Flavodoxin reductases (ferredoxin-NADPH reductases) family 1
+FGBPHIDH_02450	COG0683	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_02451	COG0559	[E] Branched-chain amino acid ABC-type transport system,
+FGBPHIDH_02452	COG0411	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_02453	COG0410	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_02454	COG2030	[I] Acyl dehydratase    
+FGBPHIDH_02455	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_02456	COG2030	[I] Acyl dehydratase    
+FGBPHIDH_02457	COG0183	[I] Acetyl-CoA acetyltransferase    
+FGBPHIDH_02458	COG0116	[L] Predicted N6-adenine-specific DNA methylase  
+FGBPHIDH_02459	COG1508	[K] DNA-directed RNA polymerase specialized sigma subunit,
+FGBPHIDH_02460	COG1137	[R] ABC-type (unclassified) transport system, ATPase component
+FGBPHIDH_02461	COG1934	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02462	COG2761	[Q] Predicted dithiol-disulfide isomerase involved in polyketide
+FGBPHIDH_02463	COG3087	[D] Cell division protein   
+FGBPHIDH_02464	COG0018	[J] Arginyl-tRNA synthetase    
+FGBPHIDH_02465	COG0010	[E] Arginase/agmatinase/formimionoglutamate hydrolase, arginase family  
+FGBPHIDH_02466	COG3651	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02467	COG1988	[R] Predicted membrane-bound metal-dependent hydrolases  
+FGBPHIDH_02468	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_02469	COG1177	[E] ABC-type spermidine/putrescine transport system, permease component
+FGBPHIDH_02470	COG1176	[E] ABC-type spermidine/putrescine transport system, permease component
+FGBPHIDH_02471	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+FGBPHIDH_02472	COG0687	[E] Spermidine/putrescine-binding periplasmic protein   
+FGBPHIDH_02473	COG1279	[R] Lysine efflux permease   
+FGBPHIDH_02474	COG1231	[E] Monoamine oxidase    
+FGBPHIDH_02475	COG0388	[R] Predicted amidohydrolase    
+FGBPHIDH_02476	COG4691	[R] Plasmid stability protein   
+FGBPHIDH_02477	COG1487	[R] Predicted nucleic acid-binding protein, contains PIN
+FGBPHIDH_02478	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_02479	COG2225	[C] Malate synthase    
+FGBPHIDH_02480	COG2199	[T] FOG: GGDEF domain   
+FGBPHIDH_02482	COG0113	[H] Delta-aminolevulinic acid dehydratase   
+FGBPHIDH_02483	COG0607	[P] Rhodanese-related sulfurtransferase    
+FGBPHIDH_02484	COG0514	[L] Superfamily II DNA helicase  
+FGBPHIDH_02485	COG3016	[S] Uncharacterized iron-regulated protein   
+FGBPHIDH_02486	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_02487	COG0783	[P] DNA-binding ferritin-like protein (oxidative damage protectant)
+FGBPHIDH_02488	COG1858	[P] Cytochrome c peroxidase   
+FGBPHIDH_02489	ROG2852	
+FGBPHIDH_02490	ROG1438	
+FGBPHIDH_02492	COG1734	[T] DnaK suppressor protein   
+FGBPHIDH_02493	ROG1876	
+FGBPHIDH_02494	COG4398	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02495	COG2214	[O] DnaJ-class molecular chaperone   
+FGBPHIDH_02496	ROG0188	
+FGBPHIDH_02497	COG0465	[O] ATP-dependent Zn proteases   
+FGBPHIDH_02498	COG0343	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+FGBPHIDH_02499	COG2002	[K] Regulators of stationary/sporulation gene expression 
+FGBPHIDH_02500	COG1848	[R] Predicted nucleic acid-binding protein, contains PIN
+FGBPHIDH_02501	COG0809	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+FGBPHIDH_02502	COG0530	[P] Ca2+/Na+ antiporter    
+FGBPHIDH_02503	COG3706	[T] Response regulator containing a CheY-like receiver
+FGBPHIDH_02504	COG1200	[LK] RecG-like helicase    
+FGBPHIDH_02505	COG0583	[K] Transcriptional regulator    
+FGBPHIDH_02506	COG0382	[H] 4-hydroxybenzoate polyprenyltransferase and related prenyltransferases 
+FGBPHIDH_02507	COG0345	[E] Pyrroline-5-carboxylate reductase    
+FGBPHIDH_02508	COG1115	[E] Na+/alanine symporter    
+FGBPHIDH_02509	COG0093	[J] Ribosomal protein L14   
+FGBPHIDH_02510	COG0198	[J] Ribosomal protein L24   
+FGBPHIDH_02511	COG0094	[J] Ribosomal protein L5   
+FGBPHIDH_02512	COG0199	[J] Ribosomal protein S14   
+FGBPHIDH_02513	COG0096	[J] Ribosomal protein S8   
+FGBPHIDH_02514	COG0097	[J] Ribosomal protein L6P/L9E   
+FGBPHIDH_02515	COG0256	[J] Ribosomal protein L18   
+FGBPHIDH_02516	COG0098	[J] Ribosomal protein S5   
+FGBPHIDH_02517	COG1841	[J] Ribosomal protein L30/L7E   
+FGBPHIDH_02518	COG0200	[J] Ribosomal protein L15   
+FGBPHIDH_02519	COG0201	[U] Preprotein translocase subunit SecY  
+FGBPHIDH_02520	COG0361	[J] Translation initiation factor 1 (IF-1) 
+FGBPHIDH_02521	COG0257	[J] Ribosomal protein L36   
+FGBPHIDH_02522	COG0099	[J] Ribosomal protein S13   
+FGBPHIDH_02523	COG0100	[J] Ribosomal protein S11   
+FGBPHIDH_02524	COG0522	[J] Ribosomal protein S4 and related proteins
+FGBPHIDH_02525	COG0202	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+FGBPHIDH_02526	COG0203	[J] Ribosomal protein L17   
+FGBPHIDH_02528	COG1804	[C] Predicted acyl-CoA transferases/carnitine dehydratase  
+FGBPHIDH_02529	COG0394	[T] Protein-tyrosine-phosphatase     
+FGBPHIDH_02530	COG1653	[G] ABC-type sugar transport system, periplasmic component
+FGBPHIDH_02531	COG1175	[G] ABC-type sugar transport systems, permease components
+FGBPHIDH_02532	COG0395	[G] ABC-type sugar transport system, permease component
+FGBPHIDH_02533	COG3839	[G] ABC-type sugar transport systems, ATPase components
+FGBPHIDH_02534	COG0673	[R] Predicted dehydrogenases and related proteins 
+FGBPHIDH_02535	COG0837	[G] Glucokinase     
+FGBPHIDH_02536	COG1737	[K] Transcriptional regulators    
+FGBPHIDH_02537	COG0166	[G] Glucose-6-phosphate isomerase    
+FGBPHIDH_02538	COG0800	[G] 2-keto-3-deoxy-6-phosphogluconate aldolase    
+FGBPHIDH_02539	COG0129	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+FGBPHIDH_02540	COG0363	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+FGBPHIDH_02541	COG0364	[G] Glucose-6-phosphate 1-dehydrogenase    
+FGBPHIDH_02542	COG0524	[G] Sugar kinases, ribokinase family  
+FGBPHIDH_02543	COG1879	[G] ABC-type sugar transport system, periplasmic component
+FGBPHIDH_02544	COG1172	[G] Ribose/xylose/arabinose/galactoside ABC-type transport systems, permease components
+FGBPHIDH_02545	COG1129	[G] ABC-type sugar transport system, ATPase component
+FGBPHIDH_02546	COG1940	[KG] Transcriptional regulator/sugar kinase   
+FGBPHIDH_02547	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+FGBPHIDH_02548	COG0745	[TK] Response regulators consisting of a CheY-like
+FGBPHIDH_02549	COG2095	[U] Multiple antibiotic transporter   
+FGBPHIDH_02550	COG4231	[C] Indolepyruvate ferredoxin oxidoreductase, alpha and beta
+FGBPHIDH_02551	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+FGBPHIDH_02552	COG1862	[U] Preprotein translocase subunit YajC  
+FGBPHIDH_02553	COG0342	[U] Preprotein translocase subunit SecD  
+FGBPHIDH_02554	COG0341	[U] Preprotein translocase subunit SecF  
+FGBPHIDH_02555	COG0758	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+FGBPHIDH_02556	COG1652	[S] Uncharacterized protein containing LysM domain 
+FGBPHIDH_02557	COG0242	[J] N-formylmethionyl-tRNA deformylase    
+FGBPHIDH_02558	COG0223	[J] Methionyl-tRNA formyltransferase    
+FGBPHIDH_02559	COG1296	[E] Predicted branched-chain amino acid permease (azaleucine
+FGBPHIDH_02560	COG4392	[S] Predicted membrane protein   
+FGBPHIDH_02561	COG0642	[T] Signal transduction histidine kinase  
+FGBPHIDH_02562	COG3915	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02563	COG0210	[L] Superfamily I DNA and RNA helicases
+FGBPHIDH_02564	COG0679	[R] Predicted permeases    
+FGBPHIDH_02565	COG1198	[L] Primosomal protein N' (replication factor Y)
+FGBPHIDH_02566	COG0407	[H] Uroporphyrinogen-III decarboxylase    
+FGBPHIDH_02567	COG4232	[OC] Thiol:disulfide interchange protein   
+FGBPHIDH_02568	COG2230	[M] Cyclopropane fatty acid synthase and related
+FGBPHIDH_02569	COG1402	[R] Uncharacterized protein, putative amidase  
+FGBPHIDH_02570	COG0406	[G] Fructose-2,6-bisphosphatase     
+FGBPHIDH_02571	COG1279	[R] Lysine efflux permease   
+FGBPHIDH_02572	COG0488	[R] ATPase components of ABC transporters with
+FGBPHIDH_02588	COG0646	[E] Methionine synthase I (cobalamin-dependent), methyltransferase domain
+FGBPHIDH_02589	COG2199	[T] FOG: GGDEF domain   
+FGBPHIDH_02590	COG0455	[D] ATPases involved in chromosome partitioning 
+FGBPHIDH_02591	ROG0804	
+FGBPHIDH_02592	COG3181	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02593	COG3158	[P] K+ transporter    
+FGBPHIDH_02594	COG1541	[H] Coenzyme F390 synthetase   
+FGBPHIDH_02595	COG0410	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_02596	ROG0672	
+FGBPHIDH_02597	COG4177	[E] ABC-type branched-chain amino acid transport system,
+FGBPHIDH_02598	COG0559	[E] Branched-chain amino acid ABC-type transport system,
+FGBPHIDH_02599	COG0411	[E] ABC-type branched-chain amino acid transport systems,
+FGBPHIDH_02600	COG1022	[I] Long-chain acyl-CoA synthetases (AMP-forming)  
+FGBPHIDH_02601	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+FGBPHIDH_02602	COG0326	[O] Molecular chaperone, HSP90 family  
+FGBPHIDH_02603	COG1764	[O] Predicted redox protein, regulator of disulfide
+FGBPHIDH_02604	COG1846	[K] Transcriptional regulators    
+FGBPHIDH_02605	COG1285	[S] Uncharacterized membrane protein   
+FGBPHIDH_02607	ROG0948	
+FGBPHIDH_02608	ROG1113	
+FGBPHIDH_02609	COG2170	[S] Uncharacterized conserved protein   
+FGBPHIDH_02610	COG0075	[E] Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase  
+FGBPHIDH_02611	COG0842	[V] ABC-type multidrug transport system, permease component
+FGBPHIDH_02612	COG1131	[V] ABC-type multidrug transport system, ATPase component
+FGBPHIDH_02613	COG2336	[T] Growth regulator    
+FGBPHIDH_02614	COG5573	[R] Predicted nucleic-acid-binding protein, contains PIN domain
+FGBPHIDH_02615	COG2932	[K] Predicted transcriptional regulator   
+FGBPHIDH_02616	COG0688	[I] Phosphatidylserine decarboxylase    
+FGBPHIDH_02617	COG0775	[F] Nucleoside phosphorylase    
+FGBPHIDH_02618	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+FGBPHIDH_02619	COG0178	[L] Excinuclease ATPase subunit   
+FGBPHIDH_02620	COG0147	[EH] Anthranilate/para-aminobenzoate synthases component I  
+FGBPHIDH_02621	COG0512	[EH] Anthranilate/para-aminobenzoate synthases component II  
+FGBPHIDH_02622	COG0547	[E] Anthranilate phosphoribosyltransferase    
+FGBPHIDH_02623	COG0134	[E] Indole-3-glycerol phosphate synthase   
+FGBPHIDH_02628	COG0050	[J] GTPases - translation elongation factors 
+FGBPHIDH_02630	COG0690	[U] Preprotein translocase subunit SecE  
+FGBPHIDH_02631	COG0250	[K] Transcription antiterminator    
+FGBPHIDH_02632	COG0080	[J] Ribosomal protein L11   
+FGBPHIDH_02633	COG0081	[J] Ribosomal protein L1   
+FGBPHIDH_02634	COG0244	[J] Ribosomal protein L10   
+FGBPHIDH_02635	COG0222	[J] Ribosomal protein L7/L12   
+FGBPHIDH_02636	COG0085	[K] DNA-directed RNA polymerase, beta subunit/140 kD
+FGBPHIDH_02637	COG0086	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+FGBPHIDH_02638	COG1704	[S] Uncharacterized conserved protein   
+FGBPHIDH_02639	COG0501	[O] Zn-dependent protease with chaperone function 
+FGBPHIDH_02640	COG0144	[J] tRNA and rRNA cytosine-C5-methylases  
+FGBPHIDH_02641	ROG0119	
+FGBPHIDH_02642	COG5000	[T] Signal transduction histidine kinase involved in
+FGBPHIDH_02643	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+FGBPHIDH_02645	COG5340	[K] Predicted transcriptional regulator   
+FGBPHIDH_02646	ROG1014	
+FGBPHIDH_02649	ROG3930	
+FGBPHIDH_02650	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+FGBPHIDH_02651	ROG3721	
+FGBPHIDH_02653	COG2856	[E] Predicted Zn peptidase   
+FGBPHIDH_02654	ROG6617	
+FGBPHIDH_02656	COG2963	[L] Transposase and inactivated derivatives  
+FGBPHIDH_02657	COG2801	[L] Transposase and inactivated derivatives  
+FGBPHIDH_02658	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_02659	ROG6757	
+FGBPHIDH_02660	COG3666	[L] Transposase and inactivated derivatives  
+FGBPHIDH_02661	COG3464	[L] Transposase and inactivated derivatives  
+FGBPHIDH_02662	COG1230	[P] Co/Zn/Cd efflux system component  
+FGBPHIDH_02663	COG2200	[T] FOG: EAL domain   
+FGBPHIDH_02664	COG0642	[T] Signal transduction histidine kinase  
+FGBPHIDH_02665	COG0745	[TK] Response regulators consisting of a CheY-like
+FGBPHIDH_02666	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_02667	COG2132	[Q] Putative multicopper oxidases   
+FGBPHIDH_02668	COG3667	[P] Uncharacterized protein involved in copper resistance
+FGBPHIDH_02669	COG4454	[P] Uncharacterized copper-binding protein   
+FGBPHIDH_02670	COG3019	[R] Predicted metal-binding protein   
+FGBPHIDH_02671	ROG0888	
+FGBPHIDH_02672	COG2217	[P] Cation transport ATPase   
+FGBPHIDH_02673	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+FGBPHIDH_02675	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+FGBPHIDH_02676	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+FGBPHIDH_02677	COG0708	[L] Exonuclease III    
+FGBPHIDH_02678	COG0048	[J] Ribosomal protein S12   
+FGBPHIDH_02679	COG0049	[J] Ribosomal protein S7   
+FGBPHIDH_02680	COG0480	[J] Translation elongation factors (GTPases)  
+FGBPHIDH_02681	COG0050	[J] GTPases - translation elongation factors 
+FGBPHIDH_02682	COG0051	[J] Ribosomal protein S10   
+FGBPHIDH_02683	COG0087	[J] Ribosomal protein L3   
+FGBPHIDH_02684	COG0088	[J] Ribosomal protein L4   
+FGBPHIDH_02685	COG0089	[J] Ribosomal protein L23   
+FGBPHIDH_02686	COG0090	[J] Ribosomal protein L2   
+FGBPHIDH_02687	COG0185	[J] Ribosomal protein S19   
+FGBPHIDH_02688	COG0091	[J] Ribosomal protein L22   
+FGBPHIDH_02689	COG0092	[J] Ribosomal protein S3   
+FGBPHIDH_02690	COG0197	[J] Ribosomal protein L16/L10E   
+FGBPHIDH_02691	COG0255	[J] Ribosomal protein L29   
+FGBPHIDH_02692	COG0186	[J] Ribosomal protein S17   
+FGBPHIDH_02693	COG0678	[O] Peroxiredoxin     
+FGBPHIDH_02694	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+FGBPHIDH_02695	COG3668	[R] Plasmid stabilization system protein  
+FGBPHIDH_02696	COG3905	[K] Predicted transcriptional regulator   
+FGBPHIDH_02697	COG3658	[C] Cytochrome b    
+FGBPHIDH_02698	ROG7909	
+FGBPHIDH_02699	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+FGBPHIDH_02700	COG0784	[T] FOG: CheY-like receiver   
+FGBPHIDH_02701	COG0642	[T] Signal transduction histidine kinase  
+FGBPHIDH_02702	COG3706	[T] Response regulator containing a CheY-like receiver
+FGBPHIDH_02703	ROG2630	
+FGBPHIDH_02704	ROG2609	
+FGBPHIDH_02705	COG2893	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+FGBPHIDH_02706	COG1925	[G] Phosphotransferase system, HPr-related proteins  
+FGBPHIDH_02707	COG1080	[G] Phosphoenolpyruvate-protein kinase (PTS system EI component
+FGBPHIDH_02708	COG3744	[S] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02709	ROG7571	
+FGBPHIDH_02710	ROG1312	
+FGBPHIDH_02711	COG3668	[R] Plasmid stabilization system protein  
+FGBPHIDH_02712	COG3609	[K] Predicted transcriptional regulators containing the CopG/Arc/MetJ
+FGBPHIDH_02714	COG0174	[E] Glutamine synthetase    
+FGBPHIDH_02715	COG1171	[E] Threonine dehydratase    
+FGBPHIDH_02716	COG2013	[S] Uncharacterized conserved protein   
+FGBPHIDH_02717	COG1514	[J] 2'-5' RNA ligase   
+FGBPHIDH_02718	COG1236	[J] Predicted exonuclease of the beta-lactamase fold
+FGBPHIDH_02719	COG1793	[L] ATP-dependent DNA ligase   
+FGBPHIDH_02720	COG1201	[R] Lhr-like helicases    
+FGBPHIDH_02721	COG1407	[R] Predicted ICC-like phosphoesterases   
+FGBPHIDH_02722	ROG4996	
+FGBPHIDH_02723	COG0340	[H] Biotin-(acetyl-CoA carboxylase) ligase   
+FGBPHIDH_02724	COG0550	[L] Topoisomerase IA    
+FGBPHIDH_02725	COG0625	[O] Glutathione S-transferase    
+FGBPHIDH_02726	COG0642	[T] Signal transduction histidine kinase  
+FGBPHIDH_02727	COG0745	[TK] Response regulators consisting of a CheY-like
+FGBPHIDH_02728	COG1846	[K] Transcriptional regulators    
+FGBPHIDH_02729	COG0468	[L] RecA/RadA recombinase    
+FGBPHIDH_02730	COG2137	[R] Uncharacterized protein conserved in bacteria 
+FGBPHIDH_02731	COG0840	[NT] Methyl-accepting chemotaxis protein   
+FGBPHIDH_02732	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+FGBPHIDH_02733	COG0486	[R] Predicted GTPase    
+FGBPHIDH_02734	COG0706	[U] Preprotein translocase subunit YidC  
+FGBPHIDH_02735	COG0759	[S] Uncharacterized conserved protein   
+FGBPHIDH_02736	ROG6413	
+FGBPHIDH_02737	ROG4984	
