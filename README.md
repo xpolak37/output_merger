@@ -3,7 +3,7 @@ This script was created to simplify the comparison of four tools (eggNOG-mapper,
 
 <img src="genomes.png" width="600" height="250">
 
-The tools that have been used are available at:
+The tools that have been compared are available at:
 
 eggNOG-mapper: https://github.com/eggnogdb/eggnog-mapper
 
