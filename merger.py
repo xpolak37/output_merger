@@ -8,10 +8,10 @@
 # Prokka: https://github.com/tseemann/prokka
 # Batch CD-Search: https://www.ncbi.nlm.nih.gov/Structure/bwrpsb/bwrpsb.cgi
 
-def eggnog_mapper(gene_prediction_file, annotation_file, organism_name):
-    import csv
-    from Bio import SeqIO
+import csv
+from Bio import SeqIO
 
+def eggnog_mapper(gene_prediction_file, annotation_file, organism_name):
     with open('tables/eggNOG_mapper_' + organism_name + '.csv', "w", newline='') as eggnog_file:
         csv_writer = csv.writer(eggnog_file)
         fieldnames = ['id', 'start', 'end', 'OG']
@@ -30,7 +30,6 @@ def eggnog_mapper(gene_prediction_file, annotation_file, organism_name):
 
 
 def operon_mapper(ORF_file, COG_file, organism_name):
-    import csv
     with open ('tables/operon_mapper_'+ organism_name + '.csv',"w",newline='') as operon_file:
         csv_writer = csv.writer(operon_file)
         fieldnames = ['id', 'start', 'end', 'OG']
@@ -50,7 +49,6 @@ def operon_mapper(ORF_file, COG_file, organism_name):
 
 
 def prokka(genes_file, COG_file, organism_name):
-    import csv
     with open('tables/prokka_' + organism_name+'.csv',"w",newline='') as prokka_file:
         csv_writer = csv.writer(prokka_file)
         fieldnames = ['id', 'start', 'end', 'OG']
@@ -69,7 +67,6 @@ def prokka(genes_file, COG_file, organism_name):
 
 
 def CD_Search(genes_file, COG_file, organism_name):
-    import csv
     with open('tables/cdd_'+organism_name+'.csv', "w", newline='') as cdd_file:
         csv_writer = csv.writer(cdd_file)
         fieldnames = ['id', 'start', 'end', 'OG']
