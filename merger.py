@@ -1,6 +1,8 @@
 # This script was created for the purpose of comparing four tools (eggNOG-mapper, Operon-mapper, Prokka, Batch CD-Search)
-# in my bachelor thesis. These functions merge the files of each tool into the table that contains id, start, end
+# in my bachelor thesis (Functional annotation of non-model bacteria based on sequential homology). These functions merge the files of each tool into the table that contains id, start, end
 # and OG assignment for each CDS.
+
+# Author: Petra Polakovičová
 
 # These tools are available at:
 # eggNOG-mapper: https://github.com/eggnogdb/eggnog-mapper
