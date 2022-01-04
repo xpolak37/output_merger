@@ -4,7 +4,7 @@
 
 # Author: Petra Polakovičová
 
-# These tools are available at:
+# The compared tools are available at:
 # eggNOG-mapper: https://github.com/eggnogdb/eggnog-mapper
 # Operon-mapper: https://biocomputo.ibt.unam.mx/operon_mapper/
 # Prokka: https://github.com/tseemann/prokka
